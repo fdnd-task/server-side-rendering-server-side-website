@@ -8,7 +8,7 @@ Deze leertaak hoort bij sprint The Web is for Everyone. Dit is een autonomous le
 ## Briefing
 Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert.
 
-Ontwerp en ontwikkel het online portfolio van chippr.dev met HTML, CSS en JavaScript. Hier worden de projecten die Chippr voor opdrachtgevers heeft gerealiseerd geshowcased. De content haal je dynamisch op uit de [Chippr.dev REST API](https://chippr.api.fdnd.nl) en render je in de HTML pagina met client side JavaScript.
+Ontwerp en ontwikkel het online portfolio van chippr.dev met HTML, CSS en JavaScript. Hier worden de projecten die Chippr voor opdrachtgevers heeft gerealiseerd geshowcased. De content haal je dynamisch op uit de [Chippr.dev REST API](https://chippr.api.fdnd.nl) en render je de HTML pagina server side.
 
 ## Doel van deze opdracht
 Je leert hoe je een prototype maakt op basis van een user story en externe data uit een API
