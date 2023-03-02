@@ -43,7 +43,8 @@ Uitschetsen van de user story waar je aan werkt. Breakdown maken voor de html in
 User storie kiezen
 
 API bekijken
-Node project opzetten
+Node server opzetten
+Repo forken en project opzetten
 even snel de JSON data op het scherm tonen 
 Filters/sorts van de data uitproberen 
 -->
@@ -60,7 +61,15 @@ Client-side vs. Server-side: what’s the difference?
 https://medium.com/@donotapply/client-side-vs-server-side-whats-the-difference-a933341cd60e
 
 JSON MDN 
+
+Your First Node.js Web Server
+https://www.youtube.com/watch?v=VShtPwEkDD0&t=28s
+
+
+
 -->
+
+
 
 
 
@@ -68,7 +77,6 @@ JSON MDN
 
 <!-- 
 Gemaakt maakt werk bekijken
-
 Style guide toepassen (of verbeteren)
 
 Laytout opzet schetsen 
@@ -102,6 +110,9 @@ Bouwen
 Templating met EJS
 Filteren/sorteren
 Url gebruiken in Node
+
+How to Use JSON in Node.js
+http://www.jsonexample.com/how-to-use-json-in-node-js/
  -->
 
 
