@@ -4,7 +4,7 @@ Ontwerp en ontwikkel een server-side website die voor iedereen toegankelijk is.
 
 ## Context
 
-Deze leertaak hoort bij sprint 8 "The Web is for Everyone". Dit is een leertaak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 8 "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert.
 
 In het S08W1-01-Sprintplanning wordt uitgelegd wat je moet doen.
 
