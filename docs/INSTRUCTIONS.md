@@ -1,157 +1,133 @@
-<!--
-De conventie voor naamgeving is sprintnaam-(sub)taaknaam
-Topics: semester-naam, semesternummer, sprint-naam, sprint-nummer
--->
+# Server-Side Website
 
-# {Naam}
-
-{Beschrijving van de leertaak}.
+Ontwerp en ontwikkel een server-side website die voor iedereen toegankelijk is.
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij sprint 8 "The Web is for Everyone". Dit is een leertaak die je individueel uitvoert.
 
+In het S08W1-01-Sprintplanning wordt uitgelegd wat je moet doen.
 
-## User story
-*Kies een user story uit de backlog van jou project.*
+## Briefing
 
-{Beschrijf de opdracht aan de hand van de gekozen user story}
+<!-- Elke opdrachtgever heeft nu data in een database
+Met een een REST API
+Waarmee je alle data kan tonen en filters/sorteer acties op kan uitvoeren. 
+Elke opdrachtgever een POST?
+
+Elke opdrachtgever een User story voor een overzicht en een detail van een product
+Elke opdrachtgever al een user story voor posten van data.
+
+ -->
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
 
-## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
+### Werkwijze
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+<!-- 
+Leertaak
+Overzicht en detail pagina maken.
+Filteren sorteren op een Api met GET
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Werkwijze
+Uitschetsen van de user story waar je aan werkt. Breakdown maken voor de html incl API data en css
 
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
-<details>
-<summary>Aanpak</summary>
+ -->
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+#### Analyseren
 
-#### Materiaal analysefase
+<!-- 
+User storie kiezen
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+API bekijken
+Node project opzetten
+even snel de JSON data op het scherm tonen 
+Filters/sorts van de data uitproberen 
+-->
 
-</details>
+<!-- 
+Bronnen 
+Analyseren
+server side/client side
 
-### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+Introduction to the server side
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction
 
-<details>
-<summary>Aanpak</summary>
+Client-side vs. Server-side: what’s the difference?
+https://medium.com/@donotapply/client-side-vs-server-side-whats-the-difference-a933341cd60e
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+JSON MDN 
+-->
 
-#### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
 
-</details>
+#### Ontwerpen
 
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+<!-- 
+Gemaakt maakt werk bekijken
 
-<details>
-<summary>Aanpak</summary>
+Style guide toepassen (of verbeteren)
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+Laytout opzet schetsen 
+Breakdown maken voor de HTML incl API data
+Componenten uitwerken
+Wireflow in Figma?
+CSS en/of JS breadkown voor de ingewikkelde componentnen 
+- responsive/mobile first
+- mobile menu
+- carousel?
+ -->
 
-#### Materiaal bouwfase
+<!-- 
+Bronnen 
+Ontwerpen
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+Breakdown
+Wireflow
+Figma
+ -->
 
-</details>
 
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
 
-<details>
-<summary>Aanpak</summary>
+#### Bouwen
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
 
-#### Materiaal integratiefase
+<!-- 
+Bronnen 
+Bouwen
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+Templating met EJS
+Filteren/sorteren
+Url gebruiken in Node
+ -->
 
-</details>
 
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+#### Testen
 
-<details>
-<summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
 
-#### Materiaal testfase
+#### Integreren
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
 
-</details>
+
+
+
 
 ## Criteria
 *Definitions of done*
 
-Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van de student verwacht, welke mindset is nodig. Succes ervaren.
+Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. 
 
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
+Doel van deze opdracht:
 
-Focus sprint 3 - De focus in deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Je maakt iets voor een mens. Praten met een mens, doorvragen, protoypen en testen en resultaten gebruiken.
+* Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
 
-Focus sprint 4 - De focus in deze sprint ligt op het toepassen van een huisstijl en maken van formulieren. Living styleguide en Atomic design, Animeren, Toegankelijke formulieren.
+Voor deze leertaak gelden de gedragscriteria:
 
-Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
-
-Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
-
-Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
-
-Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen.
-dat betekent veel voor de interfcace, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart.
-
-Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
-
-Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet.
-
-Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. 
-
-Focus sprint 12 - De focus van deze sprint ligt op werkwijze en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. 
-
-
-### Deze leertaak hoort bij het gedragscriterium:
-
-{benoem de betreffende gedrasgcriteria}
+* {benoem de betreffende gedrasgcriteria}
 
 Deze opdracht is done als:
 
