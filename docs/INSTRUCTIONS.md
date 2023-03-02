@@ -18,6 +18,10 @@ Elke opdrachtgever een POST?
 Elke opdrachtgever een User story voor een overzicht en een detail van een product
 Elke opdrachtgever al een user story voor posten van data.
 
+
+Overzicht pagina en een detailpagina tonen. 
+Filteren en /of sorteren van informatie, tonen van informatie in een calender,of op een kaart. 
+
  -->
 
 ## Doel van deze opdracht
