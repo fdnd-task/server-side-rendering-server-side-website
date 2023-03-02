@@ -24,7 +24,7 @@ Elke opdrachtgever al een user story voor posten van data.
 
 Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
 
-### Werkwijze
+## Werkwijze
 
 <!-- 
 Leertaak
@@ -37,7 +37,7 @@ Uitschetsen van de user story waar je aan werkt. Breakdown maken voor de html in
 
  -->
 
-#### Analyseren
+### Analyseren
 
 <!-- 
 User storie kiezen
@@ -64,7 +64,7 @@ JSON MDN
 
 
 
-#### Ontwerpen
+### Ontwerpen
 
 <!-- 
 Gemaakt maakt werk bekijken
@@ -92,7 +92,7 @@ Figma
 
 
 
-#### Bouwen
+### Bouwen
 
 
 <!-- 
@@ -105,11 +105,11 @@ Url gebruiken in Node
  -->
 
 
-#### Testen
+### Testen
 
 
 
-#### Integreren
+### Integreren
 
 
 
