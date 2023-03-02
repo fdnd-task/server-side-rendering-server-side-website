@@ -134,7 +134,7 @@ http://www.jsonexample.com/how-to-use-json-in-node-js/
 ## Criteria
 *Definitions of done*
 
-Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. 
+Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je op de server data kunt laden en presenteren.
 
 Doel van deze opdracht:
 
