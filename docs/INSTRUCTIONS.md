@@ -82,7 +82,7 @@ Je bouwt de website met Node, Express en EJS.
 #### Bronnen bouwfase
 
 * [Using EJS template engine with Express.js](https://www.topcoder.com/thrive/articles/using-ejs-template-engine-with-express-js)
-* [How to Use JSON in Node.js]([url](http://www.jsonexample.com/how-to-use-json-in-node-js/))
+* [How to Use JSON in Node.js](http://www.jsonexample.com/how-to-use-json-in-node-js/)
 
 
 
