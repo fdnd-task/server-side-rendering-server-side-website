@@ -52,7 +52,6 @@ Test de Node server door de JSON van de REST API te fetchen en te loggen.
 
 * [Introduction to the server side](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
 * [Client-side vs. Server-side: what’s the difference?](https://medium.com/@donotapply/client-side-vs-server-side-whats-the-difference-a933341cd60e)
-
 * [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4)
 * [Learn JSON in 10 Minutes](https://www.youtube.com/watch?v=iiADhChRriM&t=513s)
 
