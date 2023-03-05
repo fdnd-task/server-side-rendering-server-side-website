@@ -76,7 +76,8 @@ Schrijf bij je schets welke elementen statisch zijn en welke elementen dynamsch.
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
 
-Je bouwt de website met Node, Express en EJS. 
+Je bouwt de website met Node, Express en EJS op de server. 
+Je gebruikt client-side technieken HTML, CSS of JS voro responsive ontwerp of interactieve funcionaliteiten.
 
 
 #### Bronnen bouwfase
