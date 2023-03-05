@@ -38,7 +38,7 @@ Bekijk per user story welke content in de REST API staat.
 Bekijk per user story relevant studentenwerk uit semester 1.
 
 #### Briefing/debriefing
-Schrijf een debreifing. De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. Maar ook voor jou om te controleren of je alles goed hebt begrepen en geconcretiseerd.
+Schrijf een debriefing. De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. Maar ook voor jou om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
 #### Inrichten ontwikkelomgeving
 Fork de deze leertaak en clone het naar je systeem. 
@@ -48,7 +48,7 @@ Installeer de Node ontwikkelomgeving en installeer de packages die je nodig hebt
 
 Test de Node server door de JSON van de REST API te fetchen en te loggen. 
 
-### Bronnen analyserfase
+### Bronnen analyseerfase
 
 * [Introduction to the server side](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
 * [Client-side vs. Server-side: what’s the difference?](https://medium.com/@donotapply/client-side-vs-server-side-whats-the-difference-a933341cd60e)
