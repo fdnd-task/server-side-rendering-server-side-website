@@ -67,14 +67,15 @@ Schets de user story in een wireframe of wireflow. Bepaal de verschillende break
 Maak een breakdown van de ingewikkelde componenten die je wil maken. Misschien wil je een carousel ontwerpen, of een responsive menu? 
 Welke HTML, CSS en JS heb je daarvoor nodig?
 
-Schrijf bij je schets welke elementen statisch zijn en welke elementen dynamsch. Bedenk ook welke onderdelen van een pagina je in _partials_ kan opdelen.
+Schrijf bij je schets welke elementen statisch zijn en welke elementen dynamsch. 
+
+Schrijf bij je schets welke onderdelen van een pagina je in _partials_ kan opdelen.
 
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
 
-Je bouwt de website met Node, Express en EJS op de server. 
-Je gebruikt client-side technieken HTML, CSS of JS voor het responsive ontwerp of interactieve funcionaliteiten.
+Je bouwt de website met Node, Express en EJS op de server en je gebruikt client-side technieken HTML, CSS of JS voor het responsive ontwerp of interactieve funcionaliteiten.
 
 
 #### Bronnen bouwfase
