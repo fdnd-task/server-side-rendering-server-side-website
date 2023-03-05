@@ -104,3 +104,24 @@ Bijvoorbeeld: uitvoeren van code/design reviews, user tests met gebruikers, toeg
 ## Criteria
 *Definitions of done*
 
+Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je op de server data kunt laden en presenteren.
+
+Doel van deze opdracht:
+
+* Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
+
+Voor deze leertaak gelden de gedragscriteria:
+
+* C: Je luistert en vraagt door, neemt wat een ander zegt serieus
+* C: Je kan ontwerpkeuzes, eigen ideeën en producten begrijpelijk overbrengen aan belanghebbenden
+* P: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
+* ~~L: Je volgt aangeboden internationale ontwikkelingen in het vakgebied~~
+
+Deze opdracht is done als:
+
+- [ ] Je hebt een website ontworpen en gemaakt met Node, Express en EJS en een REST API
+- [ ] Je website is online gepubliceerd
+- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je leerproces bijgehouden in de Wiki
+- [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
+- [ ] Je toont aan dat je in de bouwfase verschillende serber-side en clinet-side methoden en technieken hebt ingezet om het ontwerp te realiseren
+
