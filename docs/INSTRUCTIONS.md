@@ -46,7 +46,7 @@ Schrijf een debreifing. De debriefing is noodzakelijk voor de opdrachtgever om n
 Fork de deze leertaak en clone het naar je systeem. 
 
 Je gaat een server-side website bouwen met Node/Express/EJS gebaseerd op een REST API met JSON. 
-Installeer de Node ontwikkelomgeving en installeer de packages die je nodig hebt. 
+Installeer de Node ontwikkelomgeving en installeer de packages die je nodig hebt. Maak de files en folders aan die je nodig hebt op de Node server. 
 
 Test de Node server door de content van de REST API te fetchen en te loggen. 
 
