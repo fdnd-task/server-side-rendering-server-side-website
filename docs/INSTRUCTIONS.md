@@ -80,8 +80,8 @@ Je gebruikt client-side technieken HTML, CSS of JS voro responsive ontwerp of in
 #### Bronnen bouwfase
 
 <!-- * [Using EJS template engine with Express.js](https://www.topcoder.com/thrive/articles/using-ejs-template-engine-with-express-js) -->
-* [Master EJS template engine with Node.js and Expressjs](https://medium.com/swlh/master-ejs-template-engine-with-node-js-and-expressjs-979cc22b69be)
 <!-- * [Rendering Views with Node, Express, and EJS](https://medium.com/@bloomaman/rendering-views-with-node-express-and-ejs-415af1493c74) -->
+* [Master EJS template engine with Node.js and Expressjs](https://medium.com/swlh/master-ejs-template-engine-with-node-js-and-expressjs-979cc22b69be)
 * [How to Use JSON in Node.js](http://www.jsonexample.com/how-to-use-json-in-node-js/)
 
 
