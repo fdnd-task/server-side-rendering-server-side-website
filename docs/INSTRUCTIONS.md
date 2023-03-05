@@ -1,16 +1,24 @@
 # Server-Side Website
 
-Ontwerp en ontwikkel een server-side website die voor iedereen toegankelijk is.
+Ontwerp en ontwikkel een server-side website voor een opdrachtgever.
 
 ## Context
 
-Deze leertaak hoort bij sprint 8 "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 8 "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert voor een opdrachtgever.
 
-In het S08W1-01-Sprintplanning wordt uitgelegd wat je moet doen.
+In het S08W1-01-Sprintplanning-server-side-rendering wordt uitgelegd wat je moet doen.
 
-## Briefing
 
-<!-- Elke opdrachtgever heeft nu data in een database
+## Doel van deze opdracht
+
+Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
+
+## Werkwijze
+
+Ontwerp en maak een opdracht voor een opdrachtgever. 
+Werk een of meerdere User Stories uit voor een 
+
+Elke opdrachtgever heeft nu data in een database
 Met een een REST API
 Waarmee je alle data kan tonen en filters/sorteer acties op kan uitvoeren. 
 Elke opdrachtgever een POST?
@@ -22,15 +30,6 @@ Elke opdrachtgever al een user story voor posten van data.
 Overzicht pagina en een detailpagina tonen. 
 Filteren en /of sorteren van informatie, tonen van informatie in een calender,of op een kaart. 
 
- -->
-
-## Doel van deze opdracht
-
-Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
-
-## Werkwijze
-
-<!-- 
 Leertaak
 Overzicht en detail pagina maken.
 Filteren sorteren op een Api met GET
@@ -39,7 +38,6 @@ Werkwijze
 Uitschetsen van de user story waar je aan werkt. Breakdown maken voor de html incl API data en css
 
 
- -->
 
 ### Analyseren
 
