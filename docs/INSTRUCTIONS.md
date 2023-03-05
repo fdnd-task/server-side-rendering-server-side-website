@@ -20,7 +20,7 @@ Je leert hoe je server-side data kunt gebruiken voor het maken van een website.
 
 ## Werkwijze
 
-Voor deze leertaak krijg je eerst een sprintplanning met de opdrachtgever. Tijdens de sprintplanning bespreek je de taken op het project board en de content in de database. Elke opdrachtgever heeft content voor de website in een database. Met een een REST API kun je deze content gebruiken voor het maken van de website.
+Voor deze leertaak krijg je eerst een sprintplanning met de opdrachtgever. Tijdens de sprintplanning bespreek je de taken van het project board en de content in de database. Elke opdrachtgever heeft content voor de website in een database. Met een een REST API kun je deze content gebruiken voor het maken van de website.
 
 Bij elke leertaak doorloop je de development-lifecycle meerdere keren. 
 
