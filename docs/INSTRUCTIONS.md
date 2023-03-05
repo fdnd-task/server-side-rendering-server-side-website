@@ -124,5 +124,5 @@ Deze opdracht is done als:
 - [ ] Je website is online gepubliceerd
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt je leerproces bijgehouden in de Wiki
 - [ ] Je toont aan dat je in de analysefase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
-- [ ] Je toont aan dat je in de bouwfase verschillende serber-side en clinet-side methoden en technieken hebt ingezet om het ontwerp te realiseren
+- [ ] Je toont aan dat je in de bouwfase verschillende server-side en client-side methoden en technieken hebt ingezet om het ontwerp te realiseren
 
