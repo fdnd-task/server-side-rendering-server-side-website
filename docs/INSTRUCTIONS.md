@@ -7,7 +7,7 @@ Ontwerp en ontwikkel een server-side website voor een opdrachtgever.
 
 Deze leertaak hoort bij sprint 8 "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert voor een opdrachtgever.
 
-In het S08W1-01-Sprintplanning-server-side-rendering wordt uitgelegd wat je moet doen.
+In het college S08W1-01-Sprintplanning-server-side-rendering wordt uitgelegd wat je moet doen. Tijdens de sprintplanning met de opdrachtgever bespreek je de opdracht.
 
 Bij deze leertaak hoort de deeltaak:
 - [The Cient - Briefing/Debriefing](https://github.com/fdnd-task/the-client-briefing-debriefing/)
