@@ -2,13 +2,13 @@
   "name": "server-side-rendering",
   "version": "1.0.0",
   "description": "Ontwerp en ontwikkel een server-side website voor een opdrachtgever.",
-  "main": "app.js",
+  "main": "server.js",
   "type": "module",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
