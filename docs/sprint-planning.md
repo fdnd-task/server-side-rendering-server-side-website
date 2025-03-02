@@ -56,11 +56,14 @@ Voeg het issue toe aan jouw project board met de roadmap en geef het een *tijdsp
 
 ## Prototypen
 
-Nu je weet wat (ongeveer) de bedoeling is, kan je beginnen met prototyping; schets je ideeën, een Sitemap en/of een HiFi ontwerp in Figma. Probeer ook de data uit Directus te fetchen.
+Nu je weet wat (ongeveer) de bedoeling is, kan je beginnen met prototyping; schets je ideeën, een Sitemap, Wireflow en een HiFi ontwerp in Figma. Probeer ook de data uit Directus te fetchen.
 Maak als eerste het ontwerp in HTML voordat je met CSS begint.
 
 ### HTML prototype
-Maak een issue aan met de titel 'Prototype naar HTML', voeg schetsen en uitleg toe en koppel de commits van fetchen van data en renderen van de HTML aan het issue.
+Maak een issue aan met de titel 'Prototype naar HTML', voeg Wireflow schetsen met URL's en routing toe en koppel de commits van fetchen van data en renderen van de HTML aan het issue.
+
+Volg hiervoor de instructies over 'wireflow schetsen' van de workshops Filteren en sorteren uit Sprint 7. 
+
 Voeg het issue toe aan het project board met een *tijdspad*. Wanneer moet dit af zijn?
 
 ### One Column Layout
@@ -73,6 +76,6 @@ Als je voor alle content nette HTML hebt gemaakt en getest, ga dan verder met de
 
 
 ### Bronnen
-- [Workshop Prototyping](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md)
+- [Workshop Filteren en Sorteren](https://github.com/fdnd-task/connect-your-tribe-squad-page/blob/main/docs/filteren-en-sorteren.md)
 - [Workshop Styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md)
 - [Workshop Stylesheet](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/stylesheet.md)
