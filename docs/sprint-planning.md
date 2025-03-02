@@ -2,7 +2,7 @@
 
 ## Sprint planning
 
-Project plannen en de briefing voorbereiden.
+Instructies lezen, project plannen en de briefing voorbereiden.
 
 ### Aanpak
 
@@ -33,19 +33,17 @@ Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 8,
 Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 3 studenten per squad. _(Niet dezelfde studenten als het team van de squadpage. Niet dezelfde studenten waarmee je vaak aan een tafel zit. Als je verschillende projecten kiest leer je veel meer ... )_
 
 ### Briefing voorbereiden
-Maak een issue aan in jouw repo met de titel 'Briefing/debriefing', voeg hier de voorbereiding, documentatie en debriefing toe en noteer hier zo nodig de feedback van de opdrachtgever.
+Maak een issue aan in jouw repo met de titel 'Briefing/debriefing'. Hier ga je de voorbereiding, documentatie en debriefing aan toevoegen en noteer hier zo nodig de feedback van de opdrachtgever.
 Voeg het issue toe aan jouw project board met de roadmap en geef het een *tijdspad*.
 
 Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
 
 Bekijk ter voorbereiding ook wat er in Directus klaarstaat voor jouw opdracht.
 
-Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Met het gemaakte werk ga je eerst een _Interface inventory_ maken. Je kan het werk uit semester 1 vinden in de project beschrijvingen bij FDND Agency.
+Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Je kan het werk uit semester 1 vinden in de project beschrijvingen bij FDND Agency.
 
 ### Debriefing
-Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit semester 1 en de informatie van de opdrachtgever.
-
-Volg hiervoor de instructies van de workshops Styleguide uit Sprint 4.
+Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit semester 1 en de informatie van de opdrachtgever. Volg hiervoor de instructies van de workshops Styleguide uit Sprint 4.
 
 Werk daarna eerst je eigen debriefing volledig uit.
 Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever.
