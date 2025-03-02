@@ -21,8 +21,8 @@ Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, 
 Fork en Clone deze leertaak. Zet je issues in je nieuwe repo aan.
 
 ### Planning maken
-Teken een schema op het whiteboard voor de komende weken.
-Bekijk het programma van Sprint 8 en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
+Teken met je tafel een schema op het whiteboard voor de komende weken.
+Lees de instructiues van de workshop van vandaag goed door en bekijk het programma van Sprint 8. Neem de belangrijke momenten en opdrachten uit het programma op in het schema.
 
 ### Projectboard
 Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 8, en voeg de planning van het schema toe.
@@ -33,7 +33,7 @@ Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 8,
 Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 3 studenten per squad. _(Niet dezelfde studenten als het team van de squadpage. Niet dezelfde studenten waarmee je vaak aan een tafel zit. Als je verschillende projecten kiest leer je veel meer ... )_
 
 ### Briefing voorbereiden
-Maak een issue aan in jouw repo met de titel 'Briefing/debriefing', voeg de voorberiding, documentatie en debriefing toe en noteer hier zo nodig de feedback van de opdrachtgever.
+Maak een issue aan in jouw repo met de titel 'Briefing/debriefing', voeg hier de voorbereiding, documentatie en debriefing toe en noteer hier zo nodig de feedback van de opdrachtgever.
 Voeg het issue toe aan jouw project board met de roadmap en geef het een *tijdspad*.
 
 Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
