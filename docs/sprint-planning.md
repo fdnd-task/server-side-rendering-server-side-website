@@ -22,7 +22,7 @@ Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, 
 Fork en Clone deze leertaak. Zet je issues in je nieuwe repo aan.
 
 ### Planning maken
-Teken een schema op het whiteboard voor de komende 3 weken.
+Teken een schema op het whiteboard voor de komende weken.
 Bekijk het programma van Sprint 8 en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
 
 ### Projectboard
@@ -31,7 +31,7 @@ Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 8,
 
 ## Briefing/debriefing
 
-Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 3 studenten per squad. (Niet dezelfde studenten als het team van de squadpage. Niet dezelfde studenten waarmee je vaak aan een tafel zit. Als je verschillende projecten kiest leer je veel meer ... )
+Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 3 studenten per squad. _(Niet dezelfde studenten als het team van de squadpage. Niet dezelfde studenten waarmee je vaak aan een tafel zit. Als je verschillende projecten kiest leer je veel meer ... )_
 
 ### Briefing voorbereiden
 Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor.
@@ -39,7 +39,8 @@ Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
 
 Bekijk ter voorbereiding ook wat er in Directus klaarstaat.
 
-Zorg ook dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Met het gemaakte werk ga je eerst een _Interface inventory_ maken.
+Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Met het gemaakte werk ga je eerst een _Interface inventory_ maken. Je kan het werk uit semester 1 vinden in de project beschrijvingen bij FDND Agency. 
+
 
 ### Debriefing
 Na de briefing van de opdrachtgever werk je eerst je eigen debriefing volledig uit.
@@ -68,7 +69,7 @@ Voeg de issue toe aan het projectboard met een *tijdspad*.
 
 Volg hiervoor de instructies van de workshops Styleguide en Stylesheet uit Sprint 4. Dit keer ga je ga je dit individueel doen.
 
-Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de **One Column Layout** in CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
+Als je voor alle content nette HTML hebt gemaakt en getest, ga dan verder met de **One Column Layout** in CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
 
 
 ### Bronnen
