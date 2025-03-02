@@ -13,7 +13,7 @@ Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt o
 Daarna kan je beginnen met prototypen.
 Doe de Sprint planning met de studenten die dezelfde opdrachtgever hebben.
 
-Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, en kan je beginnen met de styleguide, het prototype in HTML en de One Column Layout.
+Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, ga je beginnen met een Interface inventory, een styleguide, het prototype in HTML en de One Column Layout.
 
 
 ## Repo klaarzetten met een projectboard
@@ -36,23 +36,24 @@ Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-age
 Maak een issue aan in jouw repo met de titel 'Briefing/debriefing', voeg de voorberiding, documentatie en debriefing toe en noteer hier zo nodig de feedback van de opdrachtgever.
 Voeg het issue toe aan jouw project board met de roadmap en geef het een *tijdspad*.
 
-Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor.
-Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
+Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
 
 Bekijk ter voorbereiding ook wat er in Directus klaarstaat voor jouw opdracht.
 
-Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Met het gemaakte werk ga je eerst een _Interface inventory_ maken. Je kan het werk uit semester 1 vinden in de project beschrijvingen bij FDND Agency. 
-
+Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Met het gemaakte werk ga je eerst een _Interface inventory_ maken. Je kan het werk uit semester 1 vinden in de project beschrijvingen bij FDND Agency.
 
 ### Debriefing
-Na de briefing van de opdrachtgever werk je eerst je eigen debriefing volledig uit.
+Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit semester 1 en de informatie van de opdrachtgever.
+
+Volg hiervoor de instructies van de workshops Styleguide uit Sprint 4.
+
+Werk daarna eerst je eigen debriefing volledig uit.
 Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever.
 Je wil hier zo snel mogelijk feedback op, dus doe dit asap.
 
-
-
 ### Bronnen
 - [Workshop briefing/debriefing](https://github.com/fdnd-task/the-client-website/blob/main/docs/briefing-debriefing.md)
+- [Workshop Styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md)
 
 
 ## Prototypen
@@ -66,7 +67,7 @@ Maak een issue aan met de titel 'Prototype naar HTML', voeg Wireflow schetsen me
 Volg hiervoor de instructies over 'wireflow schetsen' van de workshops Filteren en sorteren uit Sprint 7.
 
 ### One Column Layout
-Maak een issue aan met de titel 'One Column Layout', voeg een interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
+Maak een issue aan met de titel 'One Column Layout', voeg de interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
 Voeg de issue toe aan het projectboard met een *tijdspad*.
 
 Volg hiervoor de instructies van de workshops Styleguide en Stylesheet uit Sprint 4. Dit keer ga je ga je dit individueel doen.
