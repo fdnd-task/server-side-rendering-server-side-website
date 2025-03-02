@@ -10,10 +10,8 @@ Dit semester ga je weer werken aan een opdracht voor een opdrachtgever. In semes
 
 Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden.
 Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen.
-Daarna kan je beginnen met prototypen.
-Doe de Sprint planning met de studenten die dezelfde opdrachtgever hebben.
 
-Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, ga je beginnen met een Interface inventory, een styleguide, het prototype in HTML en de One Column Layout.
+Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid,maak je een Interface inventory, een styleguide, het prototype in HTML en de One Column Layout.
 
 
 ## Repo klaarzetten met een projectboard
