@@ -6,44 +6,46 @@ Instructies lezen, project plannen en de briefing voorbereiden.
 
 ### Aanpak
 
-Dit semester ga je weer werken aan een opdracht voor een opdrachtgever. In semester 2 ga je de website ontwerpen en bouwen met behulp van een database.
+Dit semester ga je weer werken aan een opdracht voor een opdrachtgever. In Semester 2 ga je de website ontwerpen en bouwen met behulp van een database.
 
-Vandaag ga je de Repo alvast klaarzetten met een projectboard, daarna ga je de briefing voorbereiden.
+Vandaag ga je de repository alvast klaarzetten met een project board, daarna ga je de briefing voorbereiden.
 Zorg dat je opdrachtgever na de briefing zo snel mogelijk de debriefing krijgt om te checken of je de opdracht goed hebt begrepen.
-Daarna kan je beginnen met prototypen.
-Doe de Sprint planning met de studenten die dezelfde opdrachtgever hebben.
 
-Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, ga je beginnen met een Interface inventory, een styleguide, het prototype in HTML en de One Column Layout.
+Na de sprint planning ga je het project opzetten met NodeJS, Express en Liquid, maak je een Interface inventory, een Styleguide, het Prototype in HTML en de One Column Layout.
 
 
-## Repo klaarzetten met een projectboard
+## Repo klaarzetten met een project board
 
 Fork en Clone deze leertaak. Zet je issues in je nieuwe repo aan.
 
 ### Planning maken
 Teken met je tafel een schema op het whiteboard voor de komende weken.
-Lees de instructiues van de workshop van vandaag goed door en bekijk het programma van Sprint 8. Neem de belangrijke momenten en opdrachten uit het programma op in het schema.
+Lees de instructies van de workshop van vandaag goed door en bekijk het programma van Sprint 8. Neem de belangrijke momenten en opdrachten uit het programma op in het schema.
 
-### Projectboard
+### Project board
 Maak een nieuw project board aan en koppel het aan jouw repository van Sprint 8, en voeg de planning van het schema toe.
 
 
 ## Briefing/debriefing
 
-Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies een van de projecten door je naam op het whiteboard te zetten. Maximaal 3 studenten per squad. _(Niet dezelfde studenten als het team van de squadpage. Niet dezelfde studenten waarmee je vaak aan een tafel zit. Als je verschillende projecten kiest leer je veel meer ... )_
+Eerst ga je een project kiezen: Lees de projecten op https://github.com/fdnd-agency en kies één van de projecten door je naam op het whiteboard te zetten. Maximaal 3 studenten per squad. En nog wat eisen:
+
+- _Niet dezelfde studenten als het team van de squad page._
+- _Niet dezelfde studenten waarmee je vaak aan een tafel zit._
+- _Niet hetzelfde project als in Semester 1._
 
 ### Briefing voorbereiden
-Maak een issue aan in jouw repo met de titel 'Briefing/debriefing'. Hier ga je de voorbereiding, documentatie en debriefing aan toevoegen en noteer hier zo nodig de feedback van de opdrachtgever.
+Maak een issue aan in jouw repo met de titel 'Briefing/debriefing'. Hier ga je de voorbereiding, documentatie en debriefing aan toevoegen en hier noteer je zo nodig de feedback van de opdrachtgever.
 Voeg het issue toe aan jouw project board met de roadmap en geef het een *tijdspad*.
 
 Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hiervoor de instructies van de workshop briefing/debriefing uit Sprint 2.
 
 Bekijk ter voorbereiding ook wat er in Directus klaarstaat voor jouw opdracht.
 
-Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semster 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Je kan het werk uit semester 1 vinden in de project beschrijvingen bij FDND Agency.
+Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semester 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Je kan het werk uit Semester 1 vinden in de project beschrijvingen bij FDND Agency.
 
 ### Debriefing
-Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit semester 1 en de informatie van de opdrachtgever. Volg hiervoor de instructies van de workshops Styleguide uit Sprint 4.
+Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit Semester 1 en de informatie van de opdrachtgever. Volg hiervoor de instructies van de workshops Styleguide uit Sprint 4.
 
 Werk daarna eerst je eigen debriefing volledig uit.
 Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever.
@@ -66,7 +68,7 @@ Volg hiervoor de instructies over 'wireflow schetsen' van de workshops Filteren 
 
 ### One Column Layout
 Maak een issue aan met de titel 'One Column Layout', voeg de interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
-Voeg de issue toe aan het projectboard met een *tijdspad*.
+Voeg de issue toe aan het project board met een *tijdspad*.
 
 Volg hiervoor de instructies van de workshops Styleguide en Stylesheet uit Sprint 4. Dit keer ga je ga je dit individueel doen.
 

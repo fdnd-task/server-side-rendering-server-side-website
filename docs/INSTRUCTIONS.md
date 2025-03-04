@@ -5,7 +5,7 @@ Ontwerp en ontwikkel een server-side website voor een opdrachtgever.
 
 ## Context
 
-Deze leertaak hoort bij sprint 8 "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert voor een opdrachtgever.
+Deze leertaak hoort bij Sprint 8, "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert voor een opdrachtgever.
 
 
 ## Doel van deze opdracht
@@ -15,10 +15,10 @@ Je leert hoe je server-side data kunt gebruiken voor het maken van een website v
 
 ## Werkwijze
 
-Voor deze leertaak krijg je eerst een sprintplanning met de opdrachtgever. Tijdens de sprintplanning bespreek je de taken van het project board en de content in de database. Elke opdrachtgever heeft content voor de website in een database. Met een een REST API kun je deze content gebruiken voor het maken van de website.
+Voor deze leertaak krijg je eerst een sprint planning met de opdrachtgever. Tijdens de sprint planning bespreek je de taken van het project board en de content in de database. Elke opdrachtgever heeft content voor de website in een database. Met een REST API kun je deze content gebruiken voor het maken van de website.
 
 
-Deze leertwaak wordt behandeld in sprint 8. er worden verschillende workshpos aangeboden
+Deze leertaak wordt behandeld in Sprint 8. er worden verschillende workshops aangeboden
 
 - [Sprint planning](sprint-planning.md)
 - [Templating met JSON data](templating-met-json.md)
@@ -31,7 +31,7 @@ Deze leertwaak wordt behandeld in sprint 8. er worden verschillende workshpos aa
 ## Criteria
 Deze opdracht is done als:
 
-- [ ] Je hebt een website ontworpen en gemaakt met Node, Express en Liquid en een REST API
+- [ ] Je hebt een website ontworpen en gemaakt met NodeJS, Express en Liquid en een REST API
 - [ ] Je website is online gepubliceerd
 - [ ] Je hebt gestructureerd gewerkt met behulp van issues en je hebt het proces bijgehouden in jouw Learning Journal
 - [ ] Je hebt het briefing-debriefing proces doorlopen met de opdrachtgever en je vorderingen gepresenteerd tijdens de sprint review
