@@ -86,7 +86,7 @@ Als je snapt hoe je de data uit Directus kan halen, geef dan in je Wireframe aan
 - [Directus - Query Parameters](https://directus.io/docs/guides/connect/query-parameters)
 
 
-### HTML pseudeo-code
+### HTML pseudo code
 Nu je weet welke data je nodig hebt voor de pagina's die je gaat bouwen kan je je Wireframe uitbreiden met een technische breakdown.
 
 Voeg eerst aan je Wireframe annotaties toe met de HTML die je nodig hebt.
@@ -102,17 +102,3 @@ Nu je ongeveer weet welke data er is en hoe dit op de pagina;s wil gebuiken kan 
 
 Lees zo nodig de [workshop Filteren en sorteren van sprint 7](https://github.com/fdnd-task/connect-your-tribe-squad-page/blob/main/docs/filteren-en-sorteren.md). Daarin staat stap voor stap uitleg hoe je nu verder kan... 
 
-
-<!-- 
-## Workshop reparatie Endterm S2
-
-Verzamel alle retrospect vragen uit sprint 4, 5 en 6 voor de criteria en indicatoren die jij moet repareren.
-
-
-Maak een bewijslast aan in Portflow bij Semester. 
-Schrijf in eigen woorden wat de criteria en indicatoren betekeken. 
-Beantwoord de vragen en leg je bewijslast uit
-Schrijf waarom het goede bewijslast is. 
-
-
--->
