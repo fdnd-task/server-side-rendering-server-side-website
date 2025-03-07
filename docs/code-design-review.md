@@ -20,6 +20,7 @@ Bekijk onderstaande vier stappen en bepaal tot welke stap jij bent gekomen:
 4. **Je bent bezig met complexere functionaliteiten**, zoals werken met partials, `Date`-functies of het combineren van meerdere `fetch`-requests. Daarnaast heb je mogelijk al veel CSS geschreven.  
 
 _Bijvoorbeeld: je hebt data uit Directus opgehaald en op de homepagina weergegeven, maar je hebt nog geen extra pagina gemaakt en vond het lastig om de data in `index.liquid` correct te tonen. In dat geval ben je tot stap **2** gekomen en hoor je bij **team 2**. 
+
 Zoek dan maximaal drie andere studenten die ook in team 2 zitten en ga samen aan een tafel zitten._
 
 ### Code Review in het Team  
