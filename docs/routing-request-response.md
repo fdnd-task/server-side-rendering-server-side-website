@@ -78,7 +78,7 @@ In Express heb je op dit moment vooral te maken met HTML en `200 OK`, wanneer je
 
 ℹ️ Je hebt in de code die je deze sprints van ons kreeg misschien al gezien dat je server op sommige `POST` requests antwoordt met een redirect, en een `303` status code. De conventie op het Web is om na een `POST` niet meteen te antwoorden met HTML, maar de bezoeker door te sturen naar een andere `GET` route, met de status code `303 See Other`.
 
-💪 Zoek via de documentatie op https://expressjs.com/ hoe je een nette 404 pagina kunt maken voor jouw project.
+💪 Zoek via de documentatie op https://expressjs.com/ zelf uit hoe je een nette 404 pagina kunt maken voor jouw project. Kun je hun simpele voorbeeld combineren met het renderen van een view?
 
 ### Bronnen
 
