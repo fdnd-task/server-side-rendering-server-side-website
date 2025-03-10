@@ -15,12 +15,15 @@ Check workshop filteren & sorteren in sprint 7
 Opdracht: Studenten via docs (weer) hiermee laten onderzoeken
 - Dit kan op de whois
 
+Hoe de experimentjes bij in de I Love Web - Learningn Journal
+
 
 ## Filters in Liquid
 Data manipulatie in liquid, als je json data hebt kan je daar ook nog dingen mee doen in de template..
 
 Opdracht: Via de Liquid docs met de tafel allemaal fitlers uitproberen. Kijken wat het doet en aan elkaar vertellen.
 
+Hoe de experimentjes bij in de I Love Web - Learningn Journal
 
 -->
 
