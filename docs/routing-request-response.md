@@ -64,7 +64,7 @@ In je browser kun je de eigenschappen van een UI event uitlezen, en in Express k
 
 Om de vergelijking met frontend code te maken: in een UI keyboard event kun je bijvoorbeeld uitlezen op welke toets er gedrukt is, om daarmee iets doen (`event.keyCode`). Van een request kun je bijvoorbeeld uitlezen of de query parameter `sorteer` aan de URL is meegegeven (`request.query.sorteer` op `/alle-pizzas?sorteer=prijs`), en daarmee iets doen.
 
-👉 Onderzoek onderstaande bronnen en bespreek met je tafel wat je zou kunnen doen met de `path` property van een request. Stel dat je deze als extra variabele meegeeft aan je view; hoe zou je dit kunnen gebruiken in de HTML van je navigatie? Hoe kun je de eindgebruiker laten weten op welke pagina die zich bevindt?
+👉 Onderzoek onderstaande bronnen en bespreek met je tafel wat je zou kunnen doen met de `path` property van een request. Stel dat je deze als extra variabele meegeeft aan je view; hoe zou je dit kunnen gebruiken in de HTML van je navigatie? Schrijf op het whiteboard pseudo-code voor hoe je de eindgebruiker kan laten weten op welke pagina die zich bevindt.
 
 💪 Zijn er meer request properties waar je iets mee zou kunnen doen?
 
