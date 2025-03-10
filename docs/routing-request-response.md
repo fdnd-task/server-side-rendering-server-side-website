@@ -16,7 +16,7 @@ Elke URL binnen een website of webapplicatie moet ontworpen worden. Te vaak word
 
 Schrijf met je tafel op het whiteboard vijf voorbeelden van “lelijke” URLs. Gebruik hiervoor websites uit je eigen omgeving, bijvoorbeeld die van je eigen volleybalvereniging, pilatesclub, dansschool, bijbaantje, gym of het werk van je ouders. Wat maakt een URL “lelijk”?
 
-Onderzoek aan de hand van onderstaand _What are the parts of a URL?_ web.dev artikel op welke onderdelen van een URL jij als frontend ontwikkelaar in Sprint 8 invloed hebt, en op welke (nog) niet. Maak hiervan een overzicht op jullie whiteboard.
+Onderzoek aan de hand van onderstaand _What are the parts of a URL?_ web.dev artikel op welke onderdelen van een URL jij als frontend ontwikkelaar in Sprint 8 invloed hebt, en op welke (nog) niet. Maak hiervan een kort overzicht op jullie whiteboard.
 
 💪 Bespreek met je tafel het concept van “hackable” URLs, en of je dit al gebruikt in jouw project. Zo niet; bij welke onderdelen binnen jouw project zou je dit soort URLs kunnen inzetten? Hoe zou je je URLs ontwerpen als je dit er ook in wilt verwerken? Laat elkaar je routes zien, en leg deze aan elkaar uit. Maak een issue voor jezelf aan als je hierdoor je URLs wilt redesignen en _refactoren_.
 
