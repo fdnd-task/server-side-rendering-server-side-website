@@ -35,7 +35,7 @@ In Express kun je routes op verschillende manieren aanmaken; met _strings paths_
 
 Als frontender zul je regelmatig links naar documentatie krijgen. Zelfs Chad deelt tegenwoordig bronnen. Documentatie lezen, begrijpen en je eigen maken is een belangrijk onderdeel van je (toekomstige) werk.
 
-👉 Zoek in de routing documentatie van Express een voorbeeld van wat je nog niet eerder gebruikt hebt. Maak daarmee een kleine demo voor een `GET` request in je project. Experimenteer met voorbeeld code, en probeer deze je eigen te maken. Stel vragen als je er niet uit komt.
+👉 Zoek in de routing documentatie van Express een voorbeeld van wat je nog niet eerder gebruikt hebt. Maak daarmee een kleine demo voor een `GET` request in je project. Experimenteer met voorbeeld code, en probeer deze je eigen te maken. Schrijf je route op het whiteboard. Stel vragen als je er niet uit komt.
 
 ### Bronnen
 
