@@ -40,8 +40,7 @@ Hou de experimentjes bij op je I Love Web - Learning Journal. Beschrijf bijv. wa
 - Experiment 6: Haal een lijst van alle unieke `fav_tag` op, en laat zien hoeveel mensen die tag hebben
 
 ### Bronnen
-
-[Directus filtering](https://directus.io/docs/guides/connect/filter-rules)
+- [Directus filtering](https://directus.io/docs/guides/connect/filter-rules)
 
 
 ## 2. Template filters in Liquid
@@ -61,8 +60,10 @@ Hou de experimentjes bij op je I Love Web - Learning Journal.
 - Experiment 1: Ik wil alleen op de tweede plek in een lijst van items een stukje html toevoegen
 - Experiment 2: Ik wil deze lijst genereren `titel, titel, titel` alleen bij het laatste item wil ik geen komma
 - Experiment 3: Ik wil mijn lijst omgekeerd weergeven
+- Extra: Ik wil in elk vierde item een stukje html toevoegen
 
 ### Bronnen
-[Liquid documentatie](https://shopify.github.io/liquid/basics/introduction/)
-[Liquid forloop docs](https://shopify.github.io/liquid/tags/iteration/)
+- [Liquid documentatie](https://shopify.github.io/liquid/basics/introduction/)
+- [Liquid forloop docs](https://shopify.github.io/liquid/tags/iteration/)
+- [Liquid modulo](https://shopify.github.io/liquid/filters/modulo/)
 
