@@ -1,6 +1,6 @@
 # Server-Side Website
 
-## Data mapping en filtering
+## Data filteren en template filters
 
 Over het filteren en sorteren van data op de Directus API en manipulatie van data via liquid filters.
 
@@ -8,9 +8,7 @@ Over het filteren en sorteren van data op de Directus API en manipulatie van dat
 
 We kijken nog eens naar het filteren van de data op de Directus API en gaan aan de slag met de vele filters die Liquid te bieden heeft. 
 
-<!--
-
-## Filteren en sorteren met Directus
+## 1. Data filteren en sorteren met Directus
 
 We hebben in [sprint 7](https://github.com/fdnd-task/connect-your-tribe-squad-page/blob/main/docs/filteren-en-sorteren.md) al gespeeld met filteren en sorteren met Directus. 
 
@@ -28,11 +26,11 @@ Er zijn [twee notaties](https://directus.io/docs/guides/connect/query-parameters
 
 ```https://fdnd.directus.app/items/person?fields=*,squads.squad_id.name,squads.squad_id.cohort,squads.squad_id.tribe.name&filter[squads][squad_id][cohort][_eq]=2425&filter[squads][squad_id][tribe][name][_eq]=FDND%20Jaar%201```
 
-De array notatie is iets overzichtelijker qua leesbaarheid. Handig om te weten, Directus maakt er alsnog weer een json notatie van in de achtergrond. 
+De array notatie is iets overzichtelijker qua leesbaarheid. ℹ️ _Handig om te weten, Directus maakt er alsnog weer een json notatie van in de achtergrond_. 
 
 ### Opdracht
 
-Hou de experimentjes bij in de I Love Web - Learning Journal.
+Hou de experimentjes bij op je I Love Web - Learning Journal. Beschrijf bijv. wat elke query parameter doet, hoe de filters werken enz. 
 
 - Experiment 1: Ik wil alle studenten gesorteerd op `name`
 - Experiment 2: Ik wil alle `names` van studenten die een `name` hebben die begint met de letter D
@@ -46,21 +44,25 @@ Hou de experimentjes bij in de I Love Web - Learning Journal.
 [Directus filtering](https://directus.io/docs/guides/connect/filter-rules)
 
 
-## Filters in Liquid
+## 2. Template filters in Liquid
 
-Wanneer je een goede dataset hebt binnen gehaald via Directus kun je de data nog steeds beinvloeden in je template. Liquid heeft hiervoor een aantal filters. 
-
+Wanneer je een goede dataset hebt binnen gehaald via Directus kun je de data nog steeds beinvloeden in je template. Liquid heeft hiervoor veel verschillende opties. 
 
 ### Opdracht
+
+Hou de experimentjes bij op je I Love Web - Learning Journal. 
 
 1. Ga met je tafel naar de documentatie van [Liquid](https://shopify.github.io/liquid/)
 2. Ieder pakt 5 filters (niet dezelfde) en probeert deze uit in je project
 3. Beschrijf deze 5 filters in je I Love Web - Learning Journal
 4. Geef daarna een korte demo van de filters die je hebt uitgeprobeerd aan de rest van je tafel
 
-Opdracht: Via de Liquid docs met de tafel allemaal fitlers uitproberen. Kijken wat het doet en aan elkaar vertellen.
+#### For loop experimenten
+- Experiment 1: Ik wil alleen op de tweede plek in een lijst van items een stukje html toevoegen
+- Experiment 2: Ik wil deze lijst genereren `titel, titel, titel` alleen bij het laatste item wil ik geen komma
+- Experiment 3: Ik wil mijn lijst omgekeerd weergeven
 
-Hoe de experimentjes bij in de I Love Web - Learningn Journal
-
--->
+### Bronnen
+[Liquid documentatie](https://shopify.github.io/liquid/basics/introduction/)
+[Liquid forloop docs](https://shopify.github.io/liquid/tags/iteration/)
 
