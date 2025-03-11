@@ -49,7 +49,7 @@ Wanneer je een goede dataset hebt binnen gehaald via Directus kun je de data nog
 
 ### Opdracht
 
-Hou de experimentjes bij op je I Love Web - Learning Journal. 
+#### Liquid filters
 
 1. Ga met je tafel naar de documentatie van [Liquid](https://shopify.github.io/liquid/)
 2. Ieder pakt 5 filters (niet dezelfde) en probeert deze uit in je project
@@ -57,6 +57,9 @@ Hou de experimentjes bij op je I Love Web - Learning Journal.
 4. Geef daarna een korte demo van de filters die je hebt uitgeprobeerd aan de rest van je tafel
 
 #### For loop experimenten
+
+Hou de experimentjes bij op je I Love Web - Learning Journal. 
+
 - Experiment 1: Ik wil alleen op de tweede plek in een lijst van items een stukje html toevoegen
 - Experiment 2: Ik wil deze lijst genereren `titel, titel, titel` alleen bij het laatste item wil ik geen komma
 - Experiment 3: Ik wil mijn lijst omgekeerd weergeven
