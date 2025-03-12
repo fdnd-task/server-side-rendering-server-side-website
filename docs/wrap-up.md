@@ -9,7 +9,7 @@ Je bent vast tegen verschillende zaken aan gelopen en hebt nieuwe vragen voor de
 
 ### Voorbereiding Sprint review
 
-Bespreek met de groep wat je aan de opdrachtgever wil laten zien en wat je wil weten.
+Bespreek met de groep wat je van plan bent aan de opdrachtgever te laten zien en wat je wil weten.
 
 👉 Bedenk met elkaar een logische volgorde voor het presenteren. Wie laat wat wanneer zien? Het is voor de opdrachtgever interessant om verschillende variaties te zien en te vergelijken. Laat per site onderdeel zien wat jullie hebben bedacht en gemaakt.
 
