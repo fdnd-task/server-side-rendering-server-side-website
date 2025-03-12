@@ -57,9 +57,10 @@ Wanneer je een goede dataset hebt binnen gehaald via Directus kun je de data nog
 #### Liquid filters onderzoeken
 
 1. Ga met je tafel naar de documentatie van [Liquid](https://shopify.github.io/liquid/)
-2. Ieder pakt 5 filters (niet dezelfde) en probeert deze uit in je project
-3. Beschrijf deze 5 filters in je I Love Web - Learning Journal
-4. Geef daarna een korte demo van de filters die je hebt uitgeprobeerd aan de rest van je tafel
+2. Ieder pakt 5 filters (niet dezelfde) schrijf ze op het bord
+3. Probeer de filters nu uit in je project
+4. Beschrijf deze 5 filters in je I Love Web - Learning Journal
+5. Geef daarna een korte demo van de filters die je hebt uitgeprobeerd aan de rest van je tafel
 
 #### For loop experimenten
 
