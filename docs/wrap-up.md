@@ -17,7 +17,7 @@ Bespreek met de groep wat je aan de opdrachtgever wil laten zien en wat je wil w
 
 💡 *Zorg dat je tijdens de review zelf mee schrijft. Aantekeningen maken doet iedereen zelf.*
 
-👉 Voeg aan de readme van het project op de [Agency](https://github.com/fdnd-agency) de links toe van de repo's en live links. Zo kan de opdrachtgever het werk makkelijk kan bekijken.
+👉 Voeg aan de readme van het project op de [Agency](https://github.com/fdnd-agency) de links toe van de repo's en live links. Zo kan de opdrachtgever het werk makkelijk bekijken.
 
 
 ### Readme
