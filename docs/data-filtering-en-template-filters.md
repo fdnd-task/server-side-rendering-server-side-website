@@ -32,12 +32,17 @@ De array notatie is iets overzichtelijker qua leesbaarheid. ℹ️ _Handig om te
 
 Hou de experimentjes bij op je I Love Web - Learning Journal. Beschrijf bijv. wat elke query parameter doet, hoe de filters werken enz. 
 
-- Experiment 1: Ik wil alle studenten gesorteerd op `name`
-- Experiment 2: Ik wil alle `names` van studenten die een `name` hebben die begint met de letter D
-- Experiment 3: Ik wil alle `names` van studenten die een `name` hebben die begint met de letter D **of** K
-- Experiment 4: Ik wil alle `names` en `birthdates` van studenten die een `birthdate` hebben ingevuld
-- Experiment 5: Ik wil alle `names` en `birthdates` van studenten met een `birthdate` in 2002
-- Experiment 6: Haal een lijst van alle unieke `fav_tag` op, en laat zien hoeveel mensen die tag hebben
+👉 Experiment 1: Ik wil alle studenten gesorteerd op `name`
+
+👉 Experiment 2: Ik wil alle `names` van studenten die een `name` hebben die begint met de letter D
+
+👉 Experiment 3: Ik wil alle `names` van studenten die een `name` hebben die begint met de letter D **of** K
+
+👉 Experiment 4: Ik wil alle `names` en `birthdates` van studenten die een `birthdate` hebben ingevuld
+
+👉 Experiment 5: Ik wil alle `names` en `birthdates` van studenten met een `birthdate` in 2002
+
+👉 Experiment 6: Haal een lijst van alle unieke `fav_tag` op, en laat zien hoeveel mensen die tag hebben
 
 ### Bronnen
 - [Directus filtering](https://directus.io/docs/guides/connect/filter-rules)
@@ -49,7 +54,7 @@ Wanneer je een goede dataset hebt binnen gehaald via Directus kun je de data nog
 
 ### Opdracht
 
-#### Liquid filters
+#### Liquid filters onderzoeken
 
 1. Ga met je tafel naar de documentatie van [Liquid](https://shopify.github.io/liquid/)
 2. Ieder pakt 5 filters (niet dezelfde) en probeert deze uit in je project
@@ -60,10 +65,13 @@ Wanneer je een goede dataset hebt binnen gehaald via Directus kun je de data nog
 
 Hou de experimentjes bij op je I Love Web - Learning Journal. 
 
-- Experiment 1: Ik wil alleen op de tweede plek in een lijst van items een stukje html toevoegen
-- Experiment 2: Ik wil deze lijst genereren `titel, titel, titel` alleen bij het laatste item wil ik geen komma
-- Experiment 3: Ik wil mijn lijst omgekeerd weergeven
-- Extra: Ik wil in elk vierde item een stukje html toevoegen
+👉 Experiment 1: Ik wil alleen op de tweede plek in een lijst van items een stukje html toevoegen
+
+👉  Experiment 2: Ik wil deze lijst genereren `titel, titel, titel` alleen bij het laatste item wil ik geen komma
+
+👉  Experiment 3: Ik wil mijn lijst omgekeerd weergeven
+
+💪 Ik wil in elk vierde item een stukje html toevoegen
 
 ### Bronnen
 - [Liquid documentatie](https://shopify.github.io/liquid/basics/introduction/)
