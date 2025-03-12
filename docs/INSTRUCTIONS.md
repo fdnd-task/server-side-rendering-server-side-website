@@ -24,7 +24,7 @@ Deze leertaak wordt behandeld in Sprint 8. er worden verschillende workshops aan
 - [Templating met JSON data](templating-met-json.md)
 - [Code/Design-review](code-design-review.md)
 - [Routing, Request en Response](routing-request-response.md)
-- [Data filtering en template filters](data-filtering-en-template-filters.md)
+- [Data filteren en template filters](data-filtering-en-template-filters.md)
 - [Wrap up](wrap-up.md)
 
 
