@@ -11,7 +11,7 @@ Je bent vast tegen verschillende zaken aan gelopen en hebt nieuwe vragen voor de
 
 Bespreek met de groep wat je aan de opdrachtgever wil laten zien en wat je wil weten.
 
-👉 Bedenk met elkaar een logische volgorde voor het presenteren. Wie laat wat wanneer zien? Het is voor de opdrachtgever interessant om verschillende variaties te zien en te vergelijken. Misschien kunnen jullie per site onderdeel laten zien wat jullie hebben bedacht en gemaakt?
+👉 Bedenk met elkaar een logische volgorde voor het presenteren. Wie laat wat wanneer zien? Het is voor de opdrachtgever interessant om verschillende variaties te zien en te vergelijken. Laat per site onderdeel zien wat jullie hebben bedacht en gemaakt.
 
 👉 Bespreek ook welke vragen jullie hebben. 
 
