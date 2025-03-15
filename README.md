@@ -1,7 +1,9 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/server-side-rendering-server-side-website/blob/main/docs/INSTRUCTIONS.md)
+# Server-Side Website
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Ontwerp en ontwikkel een server-side website voor een opdrachtgever
+
+De instructie vind je in: [INSTRUCTIONS.md](https://github.com/fdnd-task/server-side-rendering-server-side-website/blob/main/docs/INSTRUCTIONS.md)
+
 
 ## Inhoudsopgave
 
