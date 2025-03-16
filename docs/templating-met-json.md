@@ -74,18 +74,18 @@ Dat is misschien een beetje te veel data ... lukt het je om _alleen_ de namen te
 <!-- fields=*,persons.person_id.name -->
 
 Ga nu eens kijken naar de data in Directus van jouw opdracht. Zie je daar ook 'gelinkte' tabellen? Probeer eens of je de data kan tonen.
-Als je snapt hoe je de data uit Directus kan halen, geef dan in je Wireframe aan welke data uit de database moet komen en schrijf onder je tekening de API URL die je hiervoor nodig hebt.
+Als je snapt hoe je de data uit Directus kan halen, geef dan in je Wireflow aan welke data uit de database moet komen en schrijf onder je tekening de API URL die je hiervoor nodig hebt.
 
 #### Bronnen
 - [Directus - Query Parameters](https://directus.io/docs/guides/connect/query-parameters)
 
 
 ### HTML pseudo code
-Nu je weet welke data je nodig hebt voor de pagina's die je gaat bouwen, kan je je Wireframe uitbreiden met een technische breakdown.
+Nu je weet welke data je nodig hebt voor de pagina's die je gaat bouwen, kan je je Wireflow uitbreiden met een technische breakdown.
 
-Voeg eerst aan je Wireframe annotaties toe met de HTML die je nodig hebt.
+Voeg eerst aan je Wireflow annotaties toe met de HTML die je nodig hebt.
 
-Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. Heb je een `for` loop nodig? Of een `if .. else`? Annoteer dit in je Wireframe. Lees in de Liquid documentatie over de 'Tags' die je kan gebruiken, en probeer hiermee pseudo code te schrijven in je Wireframe.
+Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. Heb je een `for` loop nodig? Of een `if .. else`? Annoteer dit in je Wireflow. Lees in de Liquid documentatie over de 'Tags' die je kan gebruiken, en probeer hiermee pseudo code te schrijven in je Wireflow.
 
 #### Bronnen
 - [Liquid - Tags](https://liquidjs.com/tags/overview.html)
