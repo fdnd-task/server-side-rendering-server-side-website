@@ -1,62 +1,61 @@
-// Importeer het npm package Express (uit de door npm aangemaakte node_modules map)
-// Deze package is geïnstalleerd via `npm install`, en staat als 'dependency' in package.json
+// Import the npm package Express (from the node_modules folder created by npm)
+// This package was installed via `npm install` and is listed as a dependency in package.json
 import express from 'express'
 
-// Importeer de Liquid package (ook als dependency via npm geïnstalleerd)
+// Import the Liquid package (also installed as a dependency via npm)
 import { Liquid } from 'liquidjs';
 
-
-console.log('Hieronder moet je waarschijnlijk nog wat veranderen')
-// Doe een fetch naar de data die je nodig hebt
+console.log('You might need to change something below')
+// Perform a fetch to the data you need
 // const apiResponse = await fetch('...')
 
-// Lees van de response van die fetch het JSON object in, waar we iets mee kunnen doen
+// Read the JSON object from the fetch response, which we can work with
 // const apiResponseJSON = await apiResponse.json()
 
-// Controleer eventueel de data in je console
-// (Let op: dit is _niet_ de console van je browser, maar van NodeJS, in je terminal)
+// Optionally check the data in your console
+// (Note: this is NOT the browser console, but the NodeJS console in your terminal)
 // console.log(apiResponseJSON)
 
 
-// Maak een nieuwe Express applicatie aan, waarin we de server configureren
+// Create a new Express application, where we configure the server
 const app = express()
 
-// Maak werken met data uit formulieren iets prettiger
+// Make working with form data a bit more convenient
 app.use(express.urlencoded({extended: true}))
 
-// Gebruik de map 'public' voor statische bestanden (resources zoals CSS, JavaScript, afbeeldingen en fonts)
-// Bestanden in deze map kunnen dus door de browser gebruikt worden
+// Use the 'public' folder for static files (resources like CSS, JavaScript, images, and fonts)
+// Files in this folder can therefore be used by the browser
 app.use(express.static('public'))
 
-// Stel Liquid in als 'view engine'
+// Set Liquid as the view engine
 const engine = new Liquid();
-app.engine('liquid', engine.express()); 
+app.engine('liquid', engine.express());
 
-// Stel de map met Liquid templates in
-// Let op: de browser kan deze bestanden niet rechtstreeks laden (zoals voorheen met HTML bestanden)
+// Set the folder containing your Liquid templates
+// Note: the browser cannot load these files directly (like with HTML files before)
 app.set('views', './views')
 
-// Maak een GET route voor de index (meestal doe je dit in de root, als /)
+// Create a GET route for the index (usually done at the root, '/')
 app.get('/', async function (request, response) {
-   // Render index.liquid uit de Views map
-   // Geef hier eventueel data aan mee
-   response.render('index.liquid')
+    // Render index.liquid from the Views folder
+    // Optionally pass data to it
+    response.render('index.liquid')
 })
 
-// Maak een POST route voor de index; hiermee kun je bijvoorbeeld formulieren afvangen
-// Hier doen we nu nog niets mee, maar je kunt er mee spelen als je wilt
+// Create a POST route for the index; for example, to handle form submissions
+// Currently, we’re not doing anything with it, but you can experiment if you want
 app.post('/', async function (request, response) {
-  // Je zou hier data kunnen opslaan, of veranderen, of wat je maar wilt
-  // Er is nog geen afhandeling van een POST, dus stuur de bezoeker terug naar /
-  response.redirect(303, '/')
+    // You could save data here, modify it, or do whatever you need
+    // There is no handling for a POST yet, so redirect the visitor back to '/'
+    response.redirect(303, '/')
 })
 
-// Stel het poortnummer in waar Express op moet gaan luisteren
-// Lokaal is dit poort 8000, als dit ergens gehost wordt, is het waarschijnlijk poort 80
+// Set the port number for Express to listen on
+// Locally, this is port 8000; if hosted somewhere, it’s probably port 80
 app.set('port', process.env.PORT || 8000)
 
-// Start Express op, haal daarbij het zojuist ingestelde poortnummer op
+// Start Express, retrieving the port number we just set
 app.listen(app.get('port'), function () {
-  // Toon een bericht in de console en geef het poortnummer door
-  console.log(`Application started on http://localhost:${app.get('port')}`)
+    // Show a message in the console and include the port number
+    console.log(`Application started on http://localhost:${app.get('port')}`)
 })
