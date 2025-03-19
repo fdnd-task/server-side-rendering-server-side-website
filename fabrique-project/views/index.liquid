@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fabrique Project</title>
+  <link rel="stylesheet" href="/styles.css"> <!-- optional, if you have styles -->
+</head>
+<body>
+  <h1>Fabrique Art Objects</h1>
+  {% if artObjects %}
+    <ul>
+      {% for item in artObjects %}
+        <li>{{ item.title }} - {{ item.description }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No art objects found.</p>
+  {% endif %}
+
+  <h2>Artists</h2>
+  {% if artists %}
+    <ul>
+      {% for artist in artists %}
+        <li>{{ artist.name }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No artists found.</p>
+  {% endif %}
+
+  <!-- Repeat similar sections for museums, styles, locations, materials, and techniques as needed -->
+
+</body>
+</html>
