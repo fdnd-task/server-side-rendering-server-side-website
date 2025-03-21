@@ -30,7 +30,7 @@ Geef de pagina's duidelijke nummers en laat goed zien op welk niveau de pagina's
 
 Schrijf per pagina de URL die je wil gebruiken voor de routes. Dit is onderdeel van je ontwerp.
 
-![sitemap](sitemap.webp) *Voorbeeld van een sitemap met een duidelijke structuur en nummering.*
+![sitemap](sitemap.png) *Voorbeeld van een sitemap met een duidelijke structuur en nummering.*
 
 #### Bronnen
 - [Workshop Prototyping - Sitemap tekenen](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#sitemap)
