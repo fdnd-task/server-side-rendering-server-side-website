@@ -20,7 +20,7 @@ Voor deze leertaak krijg je eerst een sprint planning met de opdrachtgever. Tijd
 
 Deze leertaak wordt behandeld in Sprint 8. er worden verschillende workshops aangeboden
 
-- [Sprint planning](sprint-planning.md)
+- [Sprint Planning](sprint-planning.md)
 - [Templating met JSON data](templating-met-json.md)
 - [Code/Design-review](code-design-review.md)
 - [Routing, Request en Response](routing-request-response.md)
