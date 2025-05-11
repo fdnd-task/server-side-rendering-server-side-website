@@ -1,6 +1,6 @@
 # Server-Side Website
 
-## Sprint planning
+## Sprint Planning
 
 Instructies lezen, project plannen en de briefing voorbereiden.
 
