@@ -94,19 +94,18 @@ HTML PROTOTYPE - Routes met views met statische HTML en partials
 ONE COLUMN LAYOUT
 -->
 
-
 ### Werkwijze
 
-De meeste methoden en technieken om te ontwerpen en prototypen ken je al, zoals een sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen, omdat we met een database en REST API werken. 
+De meeste methoden en technieken om te ontwerpen en prototypen ken je al, de sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen, omdat we met een database en REST API werken. 
 
-Als je weet welk content er is, hoeveel het is en welke content uit de database komt kan je schetsen en ontwerpen. Dat doe je zoveel mogelijk met echte teksten en hoeveelheden. Dus niet met _Lorem Ipsum_ maar met echte titels. Dus niet met 3 items in een lijstje, maar schetsen met 52 items die in een database komen ...
+Als je weet welk content er is, hoeveel het is en welke content uit de database komt kan je schetsen en ontwerpen. Dat doe je zoveel mogelijk met echte teksten en hoeveelheden. Dus niet met _Lorem Ipsum_ maar met echte titels. Dus niet met 3 items in een lijstje, maar schetsen met de 38 items die uit de database gaan komen ...
 
 Hieronder staan de methoden en technieke uitgelegd met daarbij wat je moet doen om content first te ontwerpen en bouwen.
 
 ### Sitemap
 Teken een sitemap van de verschillende pagina's van de opdracht die je hebt gekregen. Geef de pagina's duidelijke nummers en laat goed zien op welk niveau de pagina's staan. Gebruik de [Workshop Prototyping - Sitemap tekenen](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#sitemap) om nog eens te bekijken hoe je dat netjes doet. 
 
-🎁 Schrijf dan per pagina de URL die je wil gebruiken voor de routes. 
+🎁 Schrijf dan per pagina de URL die je wil gebruiken voor de routes.
 
 Nu weet je uit welke pagina's de website bestaat, welke urls daarbij horen en welke routes je hiervoor moet aanmaken in je server.js bestand.
 
@@ -116,21 +115,25 @@ Teken een wireframe van de pagina's die je gaat maken. Gebruik de [Workshop Prot
 🎁 Gebruik in je Wireframe echte teksten en titels, geen scribbles of nep teksten. Zo krijg je een beter beeld van hoeveel ruimte teksten nodig hebben. Als je een lijst maakt van items, producten of bijvoorbeeld nieuwwsberichten, probeer dan meteen met kloppende hoeveelheden te schetsen. Het maakt veel uit of er 3 berichten getoond moeten worden of 36!
 
 🎁 Geef in je schets aan welke content statisch is en welke content dynamisch.
-Statische content verandert niet en kan je in de HTML typen, bijvoorbeeld vaste menu items, een intro tekst, een label of icoon. 
+Statische content verandert niet en kan je in de HTML typen, bijvoorbeeld vaste menu items, een intro tekst, een label of icoon.
 Dynamische content komt uit de database. Dit wil je weten want in je server-side website ga je deze data met een REST API ophalen en daar ga je views mee bouwen in Liquid.
 
 🎁 Geef tot slot met een andere kleur aan welke onderdelen van een pagina ook op andere pagina's voorkomen. Dit zijn componenten waar je partials van kan maken.
 
-Nu weet je hoe jouw pagina er ongeveer uit komt te zien, welke content statisch of dynamisch is, en van welke componenten je partials kan maken. 
-
+Nu weet je hoe jouw pagina er ongeveer uit komt te zien, welke content statisch of dynamisch is, en van welke componenten je partials kan maken.
 
 ### HTML prototype
-Maak een issue aan met de titel 'Prototype naar HTML', voeg Wireframe schetsen met URL's en routing toe en koppel de commits van fetchen van data en renderen van de HTML aan het issue. Voeg het issue toe aan het project board met een *tijdspad*. Wanneer moet dit af zijn?
+Net als in semester 1 maak je de pagina's voor de website eerst in HTML. Omdat we een server-side website maken gaat deze stap iets anders dan bijvoorbeeld in sprint 6!
 
-Urls, routes
-Routes en views met statische HTML aanmaken
+🎁 Maak in Express verschillende routes aan die je nodig hebt voor alle pagina's van de website. Dit heb je al uitgedacht in je Sitemap. Maak daarna voor alle pagina's een view in Liquid en test of de alle pagina's het doen.
 
-Partials
+🎁 Maak daarna in Liquid partials aan voor de componenten die op verschillende pagina's terugkomen. Dit heb je al uitgedacht in je Wireframe. Includeer de partials op alle pagina's waar ze moeten komen en test de pagina's.
+
+Nu heb je in grote lijnen de website al staan met alle pagina's en url's. Ga daarna verder om jouw eerste pagina in HTML maken. Maak eerst een HTML breakdown van de wireframe. Codeer eerst de pagina en partials die je nodig hebt in HTML voordat je met de dynamische data en de API aan de slag gaat, dat is de volgende stap.  
+
+Maak een issues aan met als titel de pagina die je gaat ontwerpen en bouwen in HTML. (Voor elke pagina maak je een nieuwe issue aan) Voeg de sitemap met URL's en routing toe, en de wireframe met statische en dynamische data, de componenten en de HTML breakdown.
+Voeg de issues toe aan het project board met een *tijdspad*. Kan je al bedenken hoeveel tijd je nodig hebt om zo'n pagina met server-side rendering in HTML te maken? 
+
 
 
 <!--
@@ -143,7 +146,7 @@ Denk dus eerst na over de onderliggende structuur van je ontwerp. Volg hiervoor 
 -->
 
 
-
+<!--
 ### One Column Layout
 Als het is gelukt om met de data HTML te renderen in Liquid, kan je beginnen met CSS!
 
@@ -153,6 +156,7 @@ Voeg de issue toe aan het project board met een *tijdspad*.
 Volg hiervoor de instructies van de workshops Styleguide en Stylesheet uit Sprint 4. Dit keer ga je dit individueel doen.
 
 Als je voor alle content nette HTML hebt gemaakt en getest, ga dan verder met de **One Column Layout** in CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
+-->
 
 <!--
 SPRINT 6 
