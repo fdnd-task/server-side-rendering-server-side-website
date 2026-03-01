@@ -37,6 +37,7 @@ Deze opdracht is done als:
 - [ ] Je toont aan dat je in de analyse- en ontwerpfase verschillende methoden en technieken hebt ingezet om te inventariseren wat er moet gebeuren
 - [ ] Je toont aan dat je in de bouwfase verschillende server-side en client-side methoden en technieken hebt ingezet om het ontwerp te realiseren
 
+<!--
 SPRINT 6
 - Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
 - Je hebt gestructureerd en iteratief gewerkt met behulp van de mobile first aanpak en je werkwijze gedocumenteerd in issues
@@ -55,3 +56,4 @@ SPRINT 7
 - Gebruikers kunnen op de website data filteren, sorteren en zoeken
 
 - Je hebt met een team iteratief gewerkt, je hebt een eigen website ontworpen en gemaakt en samengevoegd tot een gezamenlijke website
+-->
