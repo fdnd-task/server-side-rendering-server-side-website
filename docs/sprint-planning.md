@@ -46,8 +46,8 @@ Zorg ervoor dat je met de opdrachtgever het gemaakte werk uit semester 1 bespree
 Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit Semester 1 en de informatie van de opdrachtgever. Volg hiervoor de instructies van de [workshop styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md) uit Sprint 4.
 
 Werk daarna eerst je eigen debriefing volledig uit.
-Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever, voeg zo nodig extra vragen terug als jullie nog niet alle informatie hebben. 
-Je wil zo snel mogelijk feedback op je debriefing, dus doe dit asap.
+Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever, voeg zo nodig extra vragen toe als jullie nog niet alle informatie hebben. 
+Je wil zo snel mogelijk feedback op je debriefing, dus stuur jullie debriefing zo snel mogelijk op. 
 
 
 ## Content first
