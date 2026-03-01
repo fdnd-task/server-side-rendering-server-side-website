@@ -31,6 +31,8 @@ Schrijf per pagina de URL die je wil gebruiken voor de routes. Dit is onderdeel 
 
 
 ### Wireflow en dynamische data
+DIT MOET WIREFRAME WORDEN
+
 Teken nu de Wireflow van de pagina's die je wil gaan ontwerpen en bouwen. Begin deze sprint met een overzicht- en detailpagina.
 
 Maak een nette Hi-Fi schets, zodat het duidelijk is welke teksten en andere content op de pagina getoond moeten worden.
