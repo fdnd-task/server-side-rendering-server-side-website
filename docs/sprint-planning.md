@@ -53,7 +53,7 @@ Je wil zo snel mogelijk feedback op je debriefing, dus doe dit asap.
 ## Content first
 
 Content first betekent dat je voor het ontwerpen en maken van een website de _content_ centraal stelt. 
-Content First is een aanpak en manier van denken. Je kan niet goed ontwerpen als je geen content hebt, je moet uitzoeken welke content er is, welke nog niet, wat al in de database staat (en of er al een database en api is), en misschien gaan gebruikers zelf content toevoegen. Hoe pak je dit aan?
+Content First is een aanpak en manier van denken. Je kan niet goed ontwerpen als je geen content hebt, je zal moeten uitzoeken welke content er is, welke nog niet, wat al in de database staat (en of er al een database en api is), en misschien gaan gebruikers zelf content toevoegen. Hoe pak je dit aan?
 
 
 
@@ -61,60 +61,58 @@ Content First is een aanpak en manier van denken. Je kan niet goed ontwerpen als
 AANPAK
 CONTENT FIRST > 
 
-
 INTERFACE INVENTORY
 STYLEGUIDE 
 
 SITEMAP HUIDIG/NIEUW
 met urls en routes 
 
-WIREFRAME MET DYNAMICHE CONTENT 
-met dynamisch/statisch/partials 
+WIREFRAME 
+met dynamisch/statische data
+met componenten (partials)
 
 WIREFLOW VOOR INTERACTIES == SPRINT 9
-Met alle states .. 
+Met alle ui states .. 
 
-FIGMA RESPONSIVE UITWERKING HELE PAGINA (dynamisch/statisch/versies)
-Ontwerp in figma voor the new responsive, zwart/wit - high contrast, kleurenblind (welke?) 
+FIGMA RESPONSIVE UITWERKING HELE PAGINA
+met verschillende versies voor User preferences: 
+prefers-color-scheme - light/dark mode
+prefers-contrast - wel/geen lower or higher contrast
+prefers-reduced-motion - wel/geen animatie
+prefers-reduced-transparency - wel/geen transparante kleuren
+forced-colors - wel/geen limited color palette 
+inverted-colors - wel/geen inverted kleuren
 
-HTML PROTOTYPE - Routes met views met statische HTML (en partials) 
+(prefers-reduced-data)
 
+HTML PROTOTYPE - Routes met views met statische HTML en partials
 
-ONE COLLUMN LAYOUT
+ONE COLUMN LAYOUT
 -->
-
-
-
-
-
 
 
 ### Aanpak
 
-
-<!--
-Nu je weet wat (ongeveer) de bedoeling is, kan je beginnen met prototyping; schets je ideeën, een Sitemap en/of een HiFi ontwerp in Figma. Maak als eerste het ontwerp in HTML, voordat je met CSS begint. Je gaat de Mobile First strategie toepassen.
-
-
-Daarna wil je niet wachten op een database of dynamische data, je kan al statisch beginnen, dan kan je bv ook al sbeller testen. Ik denk dat een sitemap en wireframe met statische en dynamische content/breakdown sowieso gemaakt moet worden voordat er code komt. En de interface inventory en styelguide in figma… Met de sitemap en wireframes zou  je een datamodel kunnen bedenken, maar dat is voor later als de studenten meer ervaring hebben
-
-project  met NodeJS, Express en Liquid, maak je een Interface inventory, een Styleguide, het Prototype in HTML en begin je met de One Column Layout.
-
-Nu je weet wat (ongeveer) de bedoeling is, kan je beginnen met prototyping; schets je ideeën, een Sitemap, Wireflow en een HiFi ontwerp in Figma. Probeer ook de data uit Directus te fetchen.
-Maak als eerste het ontwerp in HTML voordat je met CSS begint.
--->
-
+De meeste methoden en technieken om te ontwerpen en prototypen ken je al, zoals een sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen omdat we met een database en REST API werken. Hieronder staan de stappen uitgelegd met daarbij wat je moet doen voor de content. 
 
 ### Sitemap
+Teken een sitemap van de verschillende pagina's van de opdracht die je hebt gekregen. Geef de pagina's duidelijke nummers en laat goed zien op welk niveau de pagina's staan. Gebruik de [Workshop Prototyping - Sitemap tekenen](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#sitemap) om nog eens te bekijken hoe je dat netjes doet. 
 
-Met routes met views met statische HTML aanmaken
+Schrijf dan per pagina de URL die je wil gebruiken voor de routes. 
+
+Nu weet je uit welke pagina's de website bestaat, welke urls daarbij horen en welke routes je hiervoor moet aanmaken in je server.js bestand. 
+
+#### Bronnen
+- 
+
+Routes en views met statische HTML aanmaken
 
 
 ### Wireframe
 
 Met dynamische en statische content
 
-Partials aanmaken voor herbruikbare delen (statische)  HTML
+Componenten met partials aanmaken voor herbruikbare delen (statische) HTML
 
 
 
