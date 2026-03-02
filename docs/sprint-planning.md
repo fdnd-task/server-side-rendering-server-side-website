@@ -139,7 +139,7 @@ Maak issues aan met als titel de pagina die je gaat ontwerpen en bouwen in HTML.
 
 Voeg de issues toe aan het project board met een *tijdspad*. Kan je al bedenken hoeveel tijd je nodig hebt om zo'n pagina met server-side rendering in HTML te maken? 
 
-💡 Heb je voor een bepaald onderdeel nog geen content, of nog geen database? Maak dan in statische HTML een prototype. Je kunt deze later altijd nog dynamisch maken, net als wat je met je visitekaartje in Sprint 7 deed.
+💡 Heb je voor een bepaald onderdeel nog geen content, of nog geen database? Maak dan in statische HTML een prototype. Je kunt deze later altijd nog dynamisch maken, net als wat je met je visitekaartje in Sprint 7 deed. Je kunt dit ook met _mock data_ doen.
 
 
 ### One Column Layout
