@@ -96,7 +96,7 @@ HTML PROTOTYPE - Routes met views met statische HTML en partials
 ONE COLUMN LAYOUT
 -->
 
-### Werkwijze
+### Werkwijze Content first
 
 De meeste methoden en technieken om te ontwerpen en prototypen ken je al, de sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken, een database en REST API, kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen.
 
@@ -116,7 +116,7 @@ Nu weet je uit welke pagina's de website bestaat, welke urls daarbij horen en we
 ### Wireframe
 Teken een wireframe van de pagina's die je gaat maken. Gebruik de [Workshop Prototyping - Wireframe schetsen](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#wireframe-en-wireflow-schetsen) om nog eens te lezen hoe je een nette Wireframe tekent met duidelijke titel en uitleg. In deze fase van het project hoef je geen responsive ontwerp te maken, dat komt later als je een hifi-ontwerp in Figma gaat maken.
 
-🎁 Gebruik in je Wireframe echte teksten en titels, geen scribbles of nep teksten. Zo krijg je een beter beeld van hoeveel ruimte teksten nodig hebben. Als je een lijst maakt van kado's, producten of nieuwsberichten, probeer dan meteen met kloppende hoeveelheden te schetsen. Het maakt veel uit voor je interface of er 3 berichten getoond moeten worden of 36!
+🎁 Gebruik in je Wireframe echte teksten en titels, geen scribbles of nep teksten. Zo krijg je een beter beeld van hoeveel ruimte teksten nodig hebben. Als je een lijst maakt van kado's, producten of nieuwsberichten, probeer dan meteen met kloppende hoeveelheden te schetsen. Het maakt veel uit voor je interface of er 3 berichten getoond moeten worden of 67!
 
 🎁 Geef in je schets aan welke content statisch is en welke content dynamisch.
 Statische content verandert niet en kan je in de HTML typen, bijvoorbeeld vaste menu items, een intro tekst, een label of icoon.
