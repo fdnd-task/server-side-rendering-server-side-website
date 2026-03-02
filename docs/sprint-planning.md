@@ -100,7 +100,9 @@ ONE COLUMN LAYOUT
 
 De meeste methoden en technieken om te ontwerpen en prototypen ken je al, de sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken, een database en REST API, kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen.
 
-Als je weet welk content er is, hoeveel het is en wat uit de database komt kan je schetsen en ontwerpen. Dat doe je zoveel mogelijk met echte teksten en hoeveelheden. Dus niet met _Lorem Ipsum_ maar met echte titels. En niet met 3 items in een lijstje, maar schets met de 38 items die uit de database gaan komen ... 
+Als je weet welk content er is, hoeveel het is en wat uit de database komt kan je schetsen en ontwerpen. Dat doe je zoveel mogelijk met echte teksten en hoeveelheden. 
+Dus niet met _Lorem Ipsum_ maar met echte titels. 
+En niet even snel 3 items in een lijstje, maar schets met de 67 items die uit de database gaan komen ... 
 
 Hieronder staan de methoden en technieke uitgelegd met daarbij wat je moet doen om content first te ontwerpen en bouwen.
 
