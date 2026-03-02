@@ -49,7 +49,7 @@ Werk daarna eerst je eigen debriefing volledig uit.
 Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever, voeg zo nodig extra vragen toe als jullie nog niet alle informatie hebben. 
 Je wil zo snel mogelijk feedback op je debriefing, dus stuur jullie debriefing zo snel mogelijk op.
 
-Als je de debriefing hebt opgstuurd kan je beginnen met het ontwerpen en bouwen van de website. Je hoeft niet te wachten op de reactie van de opdrachtgever.
+Als je de debriefing hebt opgstuurd kan je beginnen met het ontwerpen en bouwen van de website. Je hoeft niet te wachten op de reactie van de opdrachtgever. Ga vooral meteen aan de slag, we hebben veel te doen!
 
 
 ## Content first 🎁
