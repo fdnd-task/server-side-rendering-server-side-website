@@ -43,7 +43,7 @@ Bereid met studenten die dezelfde opdrachtgever hebben de briefing voor. Volg hi
 💡 Zorg ervoor dat je met de opdrachtgever ook het gemaakte werk uit semester 1 bespreekt. Wat was goed? Waar wil de opdrachtgever mee verder? Je kan het gemaakte werk vinden in de project beschrijvingen bij FDND Agency.
 
 ### Debriefing
-Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit Semester 1 en de informatie van de opdrachtgever. Volg hiervoor de instructies van de [workshop styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md) uit Sprint 4.
+Maak na de briefing met elkaar een Interface inventory op basis van het gemaakte werk uit Semester 1 en de informatie van de opdrachtgever. Volg hiervoor de instructies van de [workshop Styleguide - Interface inventory](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md) uit Sprint 4.
 
 Werk daarna eerst je eigen debriefing volledig uit.
 Maak daarna 1 debriefing met de studenten die dezelfde opdracht hebben en stuur het op naar de opdrachtgever, voeg zo nodig extra vragen toe als jullie nog niet alle informatie hebben. 
@@ -145,7 +145,7 @@ Als het is gelukt om met de REST API de juiste HTML te renderen in Liquid, kan j
 Maak een issue aan met de titel 'One Column Layout', voeg de interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
 Voeg de issue toe aan het project board met een *tijdspad*.
 
-Volg hiervoor de instructies van de [workshops Styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md) uit Sprint 4. Dit keer ga je dit individueel doen.
+Volg hiervoor de instructies van de [workshops Styleguide samenstellen](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md) uit Sprint 4. Dit keer ga je dit individueel doen.
 
 
 
