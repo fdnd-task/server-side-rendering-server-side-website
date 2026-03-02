@@ -5,7 +5,7 @@ Ontwerp en ontwikkel een server-side website voor een opdrachtgever.
 
 ## Context
 
-Deze leertaak hoort bij Sprint 8, "Server-Side Rendering". Dit is een leertaak die je individueel uitvoert voor een opdrachtgever.
+Deze leertaak hoort bij Sprint 8, “Server-Side Rendering”. Dit is een leertaak die je individueel uitvoert voor een opdrachtgever.
 
 
 ## Doel van deze opdracht
@@ -17,7 +17,7 @@ Je leert hoe je server-side data kunt gebruiken voor het maken van een website v
 
 Voor deze leertaak krijg je eerst een sprint planning met de opdrachtgever. Tijdens de sprint planning bespreek je de taken van het project board en de content in de database. Elke opdrachtgever heeft content voor de website in een database. Met een REST API kun je deze content gebruiken voor het maken van de website.
 
-Deze leertaak wordt behandeld in Sprint 8. er worden verschillende workshops aangeboden
+Deze leertaak wordt behandeld in Sprint 8. Er worden verschillende workshops aangeboden
 
 - [Sprint Planning](sprint-planning.md)
 - [Templating met JSON data](templating-met-json.md)
