@@ -98,7 +98,7 @@ ONE COLUMN LAYOUT
 
 ### Werkwijze Content first
 
-De meeste methoden en technieken om te ontwerpen en prototypen ken je al, de sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken, een database en REST API, kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen.
+De meeste methoden en technieken om te ontwerpen en prototypen ken je al, de sitemap, wireframe en HTML prototype. Omdat we dit semester met dynamische data werken, een database en REST API, kan je dezelfde methoden gebruiken maar zul je daar nog wat aan moeten toevoegen. 
 
 Als je weet welk content er is, hoeveel het is en wat uit de database komt kan je schetsen en ontwerpen. Dat doe je zoveel mogelijk met echte teksten en hoeveelheden. 
 Dus niet met _Lorem Ipsum_ maar met echte titels. 
@@ -133,41 +133,21 @@ Net als in semester 1 maak je de pagina's voor de website eerst in HTML. Omdat w
 
 🎁 Maak daarna in Liquid de partials aan voor de componenten die op verschillende pagina's terugkomen. Dit heb je al ontworpen in je wireframe. Render de partials op alle pagina's waar ze moeten komen en test de pagina's. 
 
-Nu heb je in grote lijnen de website al staan met alle pagina's en url's. Ga daarna verder om jouw eerste pagina in HTML maken. Maak eerst een HTML breakdown van de wireframe en codeer de pagina en partials die je nodig hebt in HTML voordat je met de dynamische data en de API aan de slag gaat, dat is de volgende stap.  
+Nu heb je in grote lijnen de website al staan met alle pagina's en url's. Ga daarna verder om jouw eerste pagina helemaal in HTML maken. Maak eerst een HTML breakdown van de wireframe en codeer de pagina en partials die je nodig hebt in HTML voordat je met de dynamische data en de API aan de slag gaat, dat is de volgende stap.  
 
 Maak een issues aan met als titel de pagina die je gaat ontwerpen en bouwen in HTML. Voor elke pagina maak je een nieuwe issue aan. Voeg de sitemap met URL's en routing toe, en de wireframe met statische en dynamische data, de componenten en de HTML breakdown.
 Voeg de issues toe aan het project board met een *tijdspad*. Kan je al bedenken hoeveel tijd je nodig hebt om zo'n pagina met server-side rendering in HTML te maken? 
 
 
-
-<!--
-SPRINT 6
-HTML prototype
-
-Maak een issue aan met de titel “Prototype naar HTML”, voeg schetsen en uitleg toe en koppel de commits van de HTML die je gaat coderen aan het issue. Voeg het issue toe aan het project board met een tijdspad. Wanneer moet dit af zijn?
-
-Denk dus eerst na over de onderliggende structuur van je ontwerp. Volg hiervoor de instructies van de workshop Prototyping uit Sprint 2. Bedenk hierbij ook wat goede HTML betekent voor de User Experience en Toegankelijkheid, wat je in Sprint 3 hebt geleerd.
--->
-
-
-<!--
 ### One Column Layout
-Als het is gelukt om met de data HTML te renderen in Liquid, kan je beginnen met CSS!
+Als het is gelukt om met de REST API de juiste HTML te renderen in Liquid, kan je beginnen met CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
 
 Maak een issue aan met de titel 'One Column Layout', voeg de interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue.
 Voeg de issue toe aan het project board met een *tijdspad*.
 
-Volg hiervoor de instructies van de workshops Styleguide en Stylesheet uit Sprint 4. Dit keer ga je dit individueel doen.
+Volg hiervoor de instructies van de [workshops Styleguide](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/styleguide.md) uit Sprint 4. Dit keer ga je dit individueel doen.
 
-Als je voor alle content nette HTML hebt gemaakt en getest, ga dan verder met de **One Column Layout** in CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
--->
 
-<!--
-SPRINT 6 
-Maak een issue aan met de titel “One Column Layout”, voeg een interface inventory, de styleguide en uitleg van CSS strategie toe en koppel de commits van de CSS die je gaat coderen aan het issue. Voeg het issue toe aan het project board met een tijdspad.
 
-Als je voor alle content nette HTML hebt gemaakt (en getest met de HTML validator), ga dan verder met de One Column Layout in CSS. Zorg er eerst voor dat alles onder elkaar staat en voldoet aan de huisstijl voordat je de website responsive maakt met media queries en meer complexere layouts en interactie gaat bouwen.
 
-Volg hiervoor de instructies van de workshops Styleguide en Stylesheet uit Sprint 4. Dit keer ga je ga je dit individueel doen.
--->
 
