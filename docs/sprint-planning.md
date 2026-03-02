@@ -8,7 +8,7 @@ Instructies lezen, project plannen en de briefing voorbereiden.
 
 Dit semester ga je weer werken aan een opdracht voor een opdrachtgever. In Semester 2 ga je de website ontwerpen en bouwen met behulp van een database en REST API.
 
-Vandaag ga je de repository alvast klaarzetten met een project board, daarna ga je de briefing voorbereiden.
+Vandaag ga je de repository alvast klaarzetten met een project board, daarna ga je de briefing voorbereiden. Om 11 uur komen de opdrachtgevers langs voor de briefing. 
 
 Nadat je de debriefing hebt opgezet ga je aan de slag volgens de _Content First_ werkwijze.
 
