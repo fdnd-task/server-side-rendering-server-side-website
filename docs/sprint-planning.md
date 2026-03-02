@@ -104,7 +104,7 @@ Als je weet welk content er is, hoeveel het is en wat uit de database komt kan j
 Dus niet met _Lorem Ipsum_ maar met echte titels. 
 En niet even snel 3 items in een lijstje, maar schets met de 67 items die uit de database gaan komen ... 
 
-Hieronder staan de methoden en technieke uitgelegd met daarbij wat je moet doen om content first te ontwerpen en bouwen.
+Hieronder staan de methoden en technieken uitgelegd met daarbij wat je moet doen om content first te ontwerpen en bouwen.
 
 ### Sitemap
 Teken een sitemap van de verschillende pagina's van de opdracht die je hebt gekregen. Geef de pagina's duidelijke nummers en laat goed zien op welk niveau de pagina's staan. Gebruik de [Workshop Prototyping - Sitemap tekenen](https://github.com/fdnd-task/the-client-website/blob/main/docs/prototyping.md#sitemap) om nog eens te bekijken hoe je dat netjes doet. 
