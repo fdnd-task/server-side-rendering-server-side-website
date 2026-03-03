@@ -5,7 +5,7 @@
 Over het fetchen van data en dit gebruiken in Liquid om HTML te renderen.
 
 ### Aanpak
-Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de bedoeling is. Voor elk project is een database in Directus waarmee je de website gaat maken.
+Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de bedoeling is. Voor elk project is een database beschikbaar in Directus, waarmee je de website gaat maken.
 
 Als je een server-side website gaat ontwerpen en bouwen met JSON data, zal je in de ontwerpfase moeten onderzoeken welke data beschikbaar is en hoe je met de data uit de database in Liquid HTML kan renderen.
 
@@ -65,7 +65,7 @@ In sommige gevallen staat er in de JSON data een verwijzing naar een andere tabe
     ]
   }
 }
-//url: https://fdnd.directus.app/items/squad/12
+// URL: https://fdnd.directus.app/items/squad/12
 ```
 
 Je kan in Directus deze 'gelinkte' data ook fetchen. Door de `fields` parameter mee te geven aan de URL kan je bepalen welke data Directus teruggeeft. Door `?fields=*` mee te geven, krijg je alle velden. Met een komma kan je meer velden laten zien, bijvoorbeeld door `?fields=*,persons.*` mee te geven, krijg je data van de gelinkte personen. Probeer dit maar eens in een browser.
