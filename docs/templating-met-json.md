@@ -121,6 +121,8 @@ Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. 
 
 
 ### Routes, Requests en Renderen
-Nu je ongeveer weet welke data er is en hoe je dit op de pagina's wil gebuiken, kan je verder met bouwen. 
+Nu je ongeveer weet welke data er is en hoe je dit op de pagina's wil gebuiken, kan je verder met bouwen: 
+Voeg het fetchen van de JSON data toe aan de routes van het `server.js` file, geef de data door aan de liquid views en render de HTML met de dynamische data ...
 
 Lees zo nodig de [workshop Filteren en sorteren van Sprint 7](https://github.com/fdnd-task/connect-your-tribe-squad-page/blob/main/docs/filteren-en-sorteren.md). Daarin staat stap voor stap uitleg hoe je nu verder kan...
+
