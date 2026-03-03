@@ -48,24 +48,24 @@ In sommige gevallen staat er in de JSON data een verwijzing naar een andere tabe
 ```json
 {
   "data": {
-    "id": 12,
-    "sort": 11,
+    "id": 17,
+    "sort": 16,
     "date_updated": null,
-    "name": "1H",
-    "cohort": "2425",
+    "name": "1J",
+    "cohort": "2526",
     "nickname": null,
     "description": null,
     "website": null,
     "tribe": 1,
     "persons": [
-      65,
-      66, 
-      67, 
+      323,
+      326, 
+      328, 
       ...
     ]
   }
 }
-// URL: https://fdnd.directus.app/items/squad/12
+// URL: https://fdnd.directus.app/items/squad/17
 ```
 
 Je kan in Directus deze 'gelinkte' data ook fetchen. Door de `fields` parameter mee te geven aan de URL kan je bepalen welke data Directus teruggeeft. Door `?fields=*` mee te geven, krijg je alle velden. Met een komma kan je meer velden laten zien, bijvoorbeeld door `?fields=*,persons.*` mee te geven, krijg je data van de gelinkte personen. Probeer dit maar eens in een browser.
