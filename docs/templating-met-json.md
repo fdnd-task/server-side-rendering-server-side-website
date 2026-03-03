@@ -9,7 +9,7 @@ Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de 
 
 Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de bedoeling is. Voor elk project is een database in Directus waarmee je de website gaat maken. 
 
-### Content first
+#### Content first
 
 De aanpak die je dit semester leert noemen we 'Content first'. Schetsen doe je zoveel mogelijk met echte content, omdat we met veel data werken moet je hier ook rekening mee houden in je ontwerp. Als in een database 123 artikelen staan die op een pagina moeten komen, moet je daar in je ontwerp rekening mee houden. En omdat ook titels en teksten, en misschien plaatjes, uit de databse komen zul je er in je ontwerp rekening mee moeten houden dat sommige titels langer zijn of dat plaatjes het niet goed doen. 
 
@@ -108,7 +108,6 @@ Als je snapt hoe je de data uit Directus kan halen, geef dan in je Wireframe aan
 - [Directus - Query Parameters](https://directus.io/docs/guides/connect/query-parameters)
 
 
-
 ### HTML pseudo code
 Nu je weet welke dynamische data je nodig hebt voor de pagina's die je gaat bouwen, kan je je Wireframe uitbreiden met een technische breakdown.
 
@@ -117,10 +116,11 @@ Voeg eerst aan je Wireframe annotaties toe met de fetch die je nodig hebt om de 
 Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. Heb je een `for` loop nodig? Of een `if .. else`? Annoteer dit in je Wireflow. Lees in de Liquid documentatie over de 'Tags' die je kan gebruiken, en probeer hiermee pseudo code te schrijven in je Wireflow.
 
 #### Bronnen
-- [Liquid - Tags](https://liquidjs.com/tags/overview.html)
+- [Liquid Filters](https://liquidjs.com/filters/overview.html)
+- [Liquid Tags](https://liquidjs.com/tags/overview.html)
 
 
-## Routes, Requests en Renderen
+### Routes, Requests en Renderen
 Nu je ongeveer weet welke data er is en hoe je dit op de pagina's wil gebuiken, kan je verder met bouwen. 
 
 Lees zo nodig de [workshop Filteren en sorteren van Sprint 7](https://github.com/fdnd-task/connect-your-tribe-squad-page/blob/main/docs/filteren-en-sorteren.md). Daarin staat stap voor stap uitleg hoe je nu verder kan...
