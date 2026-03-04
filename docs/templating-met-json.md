@@ -53,7 +53,7 @@ Als de hele pagina in HTMl staat en is getest en je hebt feedback gekregen, ga j
 Na de briefing teken je eerst een sitemap van de verschillende pagina's waar je project uit bestaat. Geef de pagina's duidelijke nummers en laat goed zien op welk niveau de pagina's staan.
 Schrijf per pagina de URL die je wil gebruiken voor de routes. Dit is onderdeel van je ontwerp.
 
-👉 Bespreek met elkaar de sitemaps die je hebt gemaakt. Leg aan de hand van de sitemap uit wat je opdracht is en hoe de hele website inelkaar steekt. Bekijke de URL's em routes en help elkaar met tips & tricks. 
+👉 Bespreek met elkaar de sitemaps die je hebt gemaakt. Leg aan de hand van de sitemap uit wat je opdracht is en hoe de hele website in elkaar steekt. Bekijk de URL's em routes en help elkaar met tips & tricks. 
 
 
 ## Wireframe met statische en dynamische data, en componenten
