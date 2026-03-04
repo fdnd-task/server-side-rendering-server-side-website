@@ -70,7 +70,7 @@ Bepaal welke onderdelen van een pagina ook op andere pagina's voorkomen. Dit zij
 
 ## Data analyseren
 
-Om te weten welke data uit de database komt, zul je moeten onderzoeken hoe je de JSON data kan fetchen. 
+Om te weten welke data uit de database komt, zul je moeten onderzoeken welke JSON data kan fetchen. 
 
 In sommige gevallen staat er in de JSON data een verwijzing naar een andere tabel. In de WHOIS database van FDND stond bij de squad data bijvoorbeeld een verwijzing naar `persons`:
 
