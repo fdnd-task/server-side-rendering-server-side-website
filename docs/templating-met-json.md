@@ -101,10 +101,10 @@ Je kan in Directus deze 'gelinkte' data ook fetchen. Door de `fields` parameter 
 
 En zo kan je nog een niveau dieper: Als je `?fields=*,persons.person_id.*` meegeeft, krijg je alle data van alle gelinkte personen. Vergelijk bijvoorbeeld de volgende links en de JSON daarvan:
 
-- [https://fdnd.directus.app/items/squad/17](https://fdnd.directus.app/items/squad/17)
-- [https://fdnd.directus.app/items/squad/17?fields=*](https://fdnd.directus.app/items/squad/17?fields=*)
-- [https://fdnd.directus.app/items/squad/17?fields=*,persons.*](https://fdnd.directus.app/items/squad/17?fields=*,persons.*)
-- [https://fdnd.directus.app/items/squad/17?fields=*,persons.person_id.*](https://fdnd.directus.app/items/squad/17?fields=*,persons.person_id.*)
+- [`https://fdnd.directus.app/items/squad/17`](https://fdnd.directus.app/items/squad/17)
+- [`https://fdnd.directus.app/items/squad/17?fields=*`](https://fdnd.directus.app/items/squad/17?fields=*)
+- [`https://fdnd.directus.app/items/squad/17?fields=*,persons.*`](https://fdnd.directus.app/items/squad/17?fields=*,persons.*)
+- [`https://fdnd.directus.app/items/squad/17?fields=*,persons.person_id.*`](https://fdnd.directus.app/items/squad/17?fields=*,persons.person_id.*)
 
 👉 Dat is misschien een beetje te veel data ... lukt het jullie om _alleen_ de namen te tonen van de gelinkte personen in de squad data?
 <!-- fields=*,persons.person_id.name -->
