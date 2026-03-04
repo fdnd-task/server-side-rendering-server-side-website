@@ -63,9 +63,9 @@ Van elke pagina die je gaat bouwen teken je een Wireframe. Maak een nette Hi-Fi 
 Geef daarna aan welke content statisch is en welke content dynamisch. Dynamische content komt uit de database. 
 Bepaal welke onderdelen van een pagina ook op andere pagina's voorkomen. Dit zijn componenten waar je partials van kan maken.
 
-👉 Presenteer aan elkaar de wireframes die je hebt gemaakt. Laat zien welke data uit de database moet komen en van elke onderdelen je partials gaat maken. 
+👉 Presenteer aan elkaar de wireframes die je hebt gemaakt. Laat zien welke data uit de database moet komen en van welke onderdelen je partials gaat maken. 
 
-👉 Laat daarna zien hoe je dit in NodeJS met Express en Liquid partials in je HTML prototype hebt gemaakt. 
+👉 Laat daarna zien hoe ver je bent met code. Welke URL's en routes heb je al gemaakt. Welke views en partials met Liquid in je HTML prototype.
 
 
 ## Data analyseren
