@@ -9,8 +9,11 @@ Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de 
 
 #### Content first
 
-De aanpak die je dit semester leert noemen we 'Content first' Ontwerpen doe je zoveel mogelijk met echte content. 
-Ook als er als er wel data is, is het handig om eerst een prototype te maken met statische HTML. Je kan alle routes aanmaken in Express, en vieuws en partials aanmaken in Liquid met statische HTML. Zo boek je snel resultaten en kan je aan de opdrachtgever voortgang laten zien.
+De aanpak die je dit semester leert noemen we 'Content first' 
+Ontwerpen doe je zoveel mogelijk met echte content. 
+Ook als er als er wel data is, is het handig om eerst een prototype te maken met statische HTML. 
+Je kan alle routes alvast klaarzetten in Express, en de views en partials aanmaken in Liquid met statische HTML. 
+Zo boek je snel resultaten en kan je aan de opdrachtgever voortgang laten zien.
 
 
 Vandaag gaan we eerst de debriefing en ontwerpschetsen bespreken. Daarna ga je onderzoeken welke data beschikbaar is voor je project en hoe je met de data uit de database in Liquid HTML kan renderen.
