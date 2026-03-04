@@ -104,7 +104,7 @@ En zo kan je nog een niveau dieper: Als je `?fields=*,persons.person_id.*` meege
 👉 Dat is misschien een beetje te veel data ... lukt het jullie om _alleen_ de namen te tonen van de gelinkte personen in de squad data?
 <!-- fields=*,persons.person_id.name -->
 
-👉 Ga nu eens kijken naar de data in Directus van jouw opdracht. Zie je daar ook 'gelinkte' tabellen? Probeer eens of je de data kan tonen.
+👉 Ga nu met je tafel kijken naar de data in Directus van jouw opdracht. Zie je daar ook 'gelinkte' tabellen? Probeer eens of je de data kan tonen.
 Als je snapt hoe je de data uit Directus kan halen, geef dan in je Wireframe aan welke data uit de database moet komen en schrijf onder je tekening de API URL die je hiervoor nodig hebt.
 
 #### Bronnen
