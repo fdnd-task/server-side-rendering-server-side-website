@@ -113,7 +113,7 @@ Nu je weet welke dynamische data je nodig hebt voor de pagina's die je gaat bouw
 
 Voeg eerst aan je Wireframe annotaties toe met de fetch die je nodig hebt om de data te laden.
 
-Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. Heb je een `for` loop nodig? Of een `if .. else`? Annoteer dit in je Wireflow. Lees in de Liquid documentatie over de 'Tags' die je kan gebruiken, en probeer hiermee pseudo code te schrijven in je Wireflow.
+Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. Heb je een `for` loop nodig? Of een `if .. else`? Annoteer dit in je Wireframe. Lees in de Liquid documentatie over de 'Tags' die je kan gebruiken, en probeer hiermee pseudo code te schrijven in je Wireframe.
 
 #### Bronnen
 - [Liquid Filters](https://liquidjs.com/filters/overview.html)
