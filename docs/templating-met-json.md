@@ -53,24 +53,24 @@ Als de hele pagina in HTMl staat en is getest en je hebt feedback gekregen, ga j
 Na de briefing teken je eerst een sitemap van de verschillende pagina's waar je project uit bestaat. Geef de pagina's duidelijke nummers en laat goed zien op welk niveau de pagina's staan.
 Schrijf per pagina de URL die je wil gebruiken voor de routes. Dit is onderdeel van je ontwerp.
 
-👉 Bespreek met elkaar de sitemaps die je hebt gemaakt. Leg aan de hand van de sitemap uit wat je opdracht is en hoe de hele website in elkaar steekt. Bekijk de URL's em routes en help elkaar met tips & tricks. 
+👉 Bespreek met elkaar de sitemaps die je hebt gemaakt. Leg aan de hand van de sitemap uit wat je opdracht is en hoe de hele website in elkaar steekt. Bekijk de URLs en routes en help elkaar met tips & tricks. 
 
 
 ## Wireframe met statische en dynamische data, en componenten
 
-Van elke pagina die je gaat bouwen teken je een Wireframe. Maak een nette Hi-Fi schets met echte content, zodat het duidelijk is welke teksten en andere content op de pagina getoond moeten worden. Schrijf onder de tekening de URL van de pagina.
+Van elke pagina die je gaat bouwen, teken je een Wireframe. Maak een nette Hi-Fi schets met echte content, zodat het duidelijk is welke teksten en andere content op de pagina getoond moeten worden. Schrijf onder de tekening de URL van de pagina.
 
 Geef daarna aan welke content statisch is en welke content dynamisch. Dynamische content komt uit de database. 
 Bepaal welke onderdelen van een pagina ook op andere pagina's voorkomen. Dit zijn componenten waar je partials van kan maken.
 
 👉 Presenteer aan elkaar de wireframes die je hebt gemaakt. Laat zien welke data uit de database moet komen en van welke onderdelen je partials gaat maken. 
 
-👉 Laat daarna zien hoe ver je bent met code. Welke URL's en routes heb je al gemaakt. Welke views en partials doen het al in je HTML prototype.
+👉 Laat daarna zien hoe ver je bent met code. Welke URLs en routes heb je al gemaakt. Welke views en partials doen het al in je HTML prototype.
 
 
 ## Data analyseren
 
-Om te weten welke data uit de database komt, zul je moeten onderzoeken welke JSON data kan fetchen. 
+Om te weten welke data uit de database komt, zul je moeten onderzoeken welke JSON data je kan fetchen. 
 
 In sommige gevallen staat er in de JSON data een verwijzing naar een andere tabel. In de WHOIS database van FDND stond bij de squad data bijvoorbeeld een verwijzing naar `persons`:
 
@@ -99,7 +99,12 @@ In sommige gevallen staat er in de JSON data een verwijzing naar een andere tabe
 
 Je kan in Directus deze 'gelinkte' data ook fetchen. Door de `fields` parameter mee te geven aan de URL kan je bepalen welke data Directus teruggeeft. Door `?fields=*` mee te geven, krijg je alle velden. Met een komma kan je meer velden laten zien, bijvoorbeeld door `?fields=*,persons.*` mee te geven, krijg je data van de gelinkte personen. Probeer dit maar eens in een browser.
 
-En zo kan je nog een niveau dieper: Als je `?fields=*,persons.person_id.*` meegeeft, krijg je alle data van alle gelinkte personen.
+En zo kan je nog een niveau dieper: Als je `?fields=*,persons.person_id.*` meegeeft, krijg je alle data van alle gelinkte personen. Vergelijk bijvoorbeeld de volgende links en de JSON daarvan:
+
+- https://fdnd.directus.app/items/squad/17
+- https://fdnd.directus.app/items/squad/17?fields=*
+- https://fdnd.directus.app/items/squad/17?fields=*,persons.*
+- https://fdnd.directus.app/items/squad/17?fields=*,persons.person_id.*
 
 👉 Dat is misschien een beetje te veel data ... lukt het jullie om _alleen_ de namen te tonen van de gelinkte personen in de squad data?
 <!-- fields=*,persons.person_id.name -->
@@ -125,7 +130,7 @@ Probeer daarna te bedenken hoe je van de JSON data de HTML kan maken in Liquid. 
 
 ### Routes, Requests en Renderen
 Nu je ongeveer weet welke data er is en hoe je dit op de pagina's wil gebuiken, kan je verder met bouwen: 
-Voeg het fetchen van de JSON data toe aan de routes van het `server.js` file, geef de data door aan de liquid views en render de HTML met de dynamische data ...
+Voeg het fetchen van de JSON data toe aan de routes van het `server.js` file, geef de data door aan de Liquid views en render de HTML met de dynamische data ...
 
 Lees zo nodig de [workshop Filteren en sorteren van Sprint 7](https://github.com/fdnd-task/connect-your-tribe-squad-page/blob/main/docs/filteren-en-sorteren.md). Daarin staat stap voor stap uitleg hoe je nu verder kan...
 
