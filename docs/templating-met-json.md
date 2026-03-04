@@ -65,7 +65,7 @@ Bepaal welke onderdelen van een pagina ook op andere pagina's voorkomen. Dit zij
 
 👉 Presenteer aan elkaar de wireframes die je hebt gemaakt. Laat zien welke data uit de database moet komen en van welke onderdelen je partials gaat maken. 
 
-👉 Laat daarna zien hoe ver je bent met code. Welke URL's en routes heb je al gemaakt. Welke views en partials met Liquid in je HTML prototype.
+👉 Laat daarna zien hoe ver je bent met code. Welke URL's en routes heb je al gemaakt. Welke views en partials doen het al in je HTML prototype.
 
 
 ## Data analyseren
