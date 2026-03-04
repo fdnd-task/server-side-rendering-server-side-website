@@ -7,8 +7,6 @@ Over het fetchen van data en dit gebruiken in Liquid om HTML te renderen.
 ### Aanpak
 Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de bedoeling is. Voor elk project is een database beschikbaar in Directus, waarmee je de website gaat maken.
 
-Nu je een briefing hebt gekregen van de opdrachtgever weet je (ongeveer) wat de bedoeling is. Voor elk project is een database in Directus waarmee je de website gaat maken. 
-
 #### Content first
 
 De aanpak die je dit semester leert noemen we 'Content first'. Schetsen doe je zoveel mogelijk met echte content, omdat we met veel data werken moet je hier ook rekening mee houden in je ontwerp. Als in een database 123 artikelen staan die op een pagina moeten komen, moet je daar in je ontwerp rekening mee houden. En omdat ook titels en teksten, en misschien plaatjes, uit de databse komen zul je er in je ontwerp rekening mee moeten houden dat sommige titels langer zijn of dat plaatjes het niet goed doen. 
