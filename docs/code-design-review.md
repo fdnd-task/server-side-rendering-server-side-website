@@ -26,9 +26,9 @@ Maak vervolgens samen één defintieve sitemap en bespreek dit met een docent.
 
 De volgende code review doe je in een andere groep gebaseerd op tot waar je bent gekomen. Bekijk onderstaande vier stappen en bepaal tot welke stap jij bent gekomen:  
 
-1. **Je haalt data op uit Directus** met een server-side `fetch`.  
-2. **Je toont de data in een Liquid-template** (bijvoorbeeld met een `for`-loop).  
-3. **Je hebt meerdere GET-routes aangemaakt** in `server.js`.  
+1. **Je hebt meerdere GET-routes aangemaakt** in `server.js`.
+2. 1. **Je haalt data op uit Directus** met een server-side `fetch`.  
+2. **Je toont de data in een Liquid-template** (bijvoorbeeld met een `for`-loop).   
 4. **Je bent bezig met complexere functionaliteiten**, zoals werken met partials, `Date`-functies of het combineren van meerdere `fetch`-requests, of heb je al veel CSS geschreven.  
 
 _Bijvoorbeeld: je hebt data uit Directus opgehaald en op de homepagina weergegeven, maar je hebt nog geen extra pagina gemaakt en vond het lastig om de data in `index.liquid` correct te tonen. In dat geval ben je tot stap **2** gekomen en hoor je bij **team 2**._
