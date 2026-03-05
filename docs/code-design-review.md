@@ -29,7 +29,7 @@ De volgende code review doe je in een andere groep gebaseerd op tot waar je bent
 1. **Je hebt alle GET-routes aangemaakt** in `server.js` en bijbehorende views.
 2. **Je haalt data op uit Directus** met een server-side `fetch`.  
 3. **Je toont de data in een Liquid-template** (bijvoorbeeld met een `for`-loop).   
-4. **Je bent bezig met complexere functionaliteiten**, `Date`-functies of het combineren van meerdere `fetch`-requests, of heb je al veel CSS geschreven.  
+4. **Je bent bezig met complexere functionaliteiten**, `Date`-functies of het combineren van meerdere `fetch`-requests, of je hebt al veel CSS geschreven.  
 
 _Bijvoorbeeld: je hebt data uit Directus opgehaald en op de homepagina weergegeven, maar je hebt nog geen extra pagina gemaakt en vond het lastig om de data in `index.liquid` correct te tonen. In dat geval ben je tot stap **2** gekomen en hoor je bij **team 2**._
 
