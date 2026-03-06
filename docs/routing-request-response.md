@@ -4,6 +4,8 @@
 
 Over URL design, Routes en Request parameters gebruiken om data te laden.
 
+<!-- Over slugs, vergelijken met NOS.nl  -->
+
 
 ### Aanpak
 
