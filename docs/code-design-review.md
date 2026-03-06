@@ -10,7 +10,7 @@ Vandaag bestaat de code/design review uit twee onderdelen. Je start met een revi
 
 Dit semester werk je meer zelfsturend, en dat geldt ook voor deze code review. Binnen je groep bepaal je daarom zelf welke vragen jullie hebben en op welke onderdelen jullie graag feedback willen ontvangen.
 
-## 1. Content-first review
+## 1. Content first review
 Misschien wel de belangrijkste stap voordat je een website gaat ontwerpen en bouwen, is het begrijpen van de structuur van het project. De sitemap vormt hierbij de eerste stap. Ga samen met je groepje van de opdrachtgever bij elkaar zitten, bespreek de individueel gemaakte sitemaps en werk gezamenlijk toe naar één definitieve versie.
 
 ### Presenteer jouw sitemap
@@ -21,7 +21,7 @@ Laat ieder teamlid aan de beurt komen. Wanneer je zelf niet presenteert, maak je
 ### Sitemaps bespreken en één sitemap maken
 Nadat iedereen zijn sitemap heeft gepresenteerd, gaan jullie met elkaar in gesprek. Wat heb je opgeschreven tijdens de presentaties van de andere studenten? En is er ook een sitemap te vinden van vorige groepen? 
 
-Maak vervolgens samen één defintieve sitemap en bespreek dit met een docent. Voor de gesprekken van de docent hebben we de volgende planning:
+Maak vervolgens samen één definitieve sitemap en bespreek dit met een docent. Voor de gesprekken van de docent hebben we de volgende planning:
 
 **Krijn + Suus:**
 - Frankendael 10:00-10:45
@@ -29,7 +29,7 @@ Maak vervolgens samen één defintieve sitemap en bespreek dit met een docent. V
 - Milledoni 11:30-12:15
 
 **Joost + Koop:**
-- Adconnect 10:00-10:45
+- AdConnect 10:00-10:45
 - Snappthis 10:45-11:30
 - Buurtcampuskrant 11:30-12:15
 
