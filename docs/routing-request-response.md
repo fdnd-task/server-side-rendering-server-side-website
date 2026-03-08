@@ -49,7 +49,7 @@ Als frontender zul je regelmatig links naar documentatie krijgen. Zelfs Chad dee
 
 ## Request
 
-Elke URL die je bezoekt, zorgt voor een _HTTP request_ op een server. Als je in Express een route hebt aangemaakt voor een bepaald request, zal NodeJS de bijbehorende functie uitvoeren. Binnen zo'n functie kun je alles doen wat je maar kunt bedenken. De manier waarop dit werkt, kun je vergelijken met het driestappenplan uit Semester 1, en het toevoegen van een _event listener_ in je frontend code. Je hebt hiervoor het volgende geleerd:
+Elke URL die je bezoekt, zorgt voor een _HTTP request_ op een server. Als je in Express een route hebt aangemaakt voor een bepaald request, zal NodeJS de bijbehorende (callback) functie uitvoeren. Binnen zo'n functie kun je alles doen wat je maar kunt bedenken. De manier waarop dit werkt, kun je vergelijken met het driestappenplan uit Semester 1, en het toevoegen van een _event listener_ in je frontend code. Je hebt hiervoor het volgende geleerd:
 
 1) Zoek een element waarop je een actie wilt laten uitvoeren, met bijvoorbeeld `querySelector()`
 2) Voeg een event listener toe, met `addEventListener()`
