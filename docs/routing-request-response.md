@@ -44,7 +44,7 @@ Als frontender zul je regelmatig links naar documentatie krijgen. Zelfs Chad dee
 - [Route paths based on strings @ Express](https://expressjs.com/en/guide/routing.html#route-paths-based-on-strings)
 - [Route parameters @ Express](https://expressjs.com/en/guide/routing.html#route-parameters)
 - [Route paths based on regular expressions @ Express](https://expressjs.com/en/guide/routing.html#route-paths-based-on-regular-expressions)
-- 💪 Meer weten over regular expressions? [Lees Eloquent JavaScript](https://eloquentjavascript.net/09_regexp.html) of [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
+- 💪 Meer weten over regular expressions? [Lees Eloquent JavaScript](https://eloquentjavascript.net/09_regexp.html) of [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) of [bekijk deze video](https://www.youtube.com/watch?v=S1pseKYYd4c&t=10s)
 
 
 ## Request
