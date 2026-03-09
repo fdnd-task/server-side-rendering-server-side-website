@@ -93,7 +93,7 @@ In Express heb je op dit moment vooral te maken met HTML en `200 OK`, wanneer je
 
 Een status code die je vast wel kent, is de `404 Not Found`. Deze krijg je van een server terug als je een pagina bezoekt die niet bestaat.
 
-👉 💪 Zoek via de documentatie op https://expressjs.com/ zelf uit hoe je een nette 404 pagina kunt maken voor jouw project, en voeg deze toe. Kun je hun simpele voorbeeld combineren met het renderen van een eigen view?
+👉 Zoek via de documentatie op https://expressjs.com/ zelf uit hoe je een nette 404 pagina kunt maken voor jouw project, en voeg deze toe. Kun je hun simpele voorbeeld combineren met het renderen van een eigen view?
 
 ### Bronnen
 
