@@ -20,7 +20,7 @@ Schrijf met je tafel op het whiteboard vijf voorbeelden van “lelijke” URLs. 
 
 👉 Onderzoek aan de hand van onderstaand _What are the parts of a URL?_ web.dev artikel op welke onderdelen van een URL jij als frontend ontwikkelaar in Sprint 8 invloed hebt, en op welke (nog) niet. Maak hiervan een kort overzicht op jullie whiteboard.
 
-💪 Bespreek met je tafel het concept van “hackable” URLs, wat zijn "hackable" URLs en gebruiken jullie dit al in het project? Zo niet; bij welke onderdelen binnen jouw project zou je dit soort URLs kunnen inzetten? Hoe zou je je URLs ontwerpen als je dit er ook in wilt verwerken? Laat elkaar je routes zien, en leg deze aan elkaar uit. Maak een issue voor jezelf aan als je hierdoor je URLs wilt redesignen en _refactoren_.
+💪 Bespreek met je tafel het concept van “hackable” URLs, wat zijn "hackable" URLs en gebruiken jullie dit al in het project? Zo niet; bij welke onderdelen binnen jouw project zou je dit soort URLs kunnen inzetten? Laat elkaar je routes zien, en leg deze aan elkaar uit. Maak een issue voor jezelf aan als je hierdoor je URLs wilt redesignen en _refactoren_.
 
 ### Bronnen
 
