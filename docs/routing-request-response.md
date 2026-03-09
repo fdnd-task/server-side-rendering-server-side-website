@@ -33,9 +33,9 @@ Schrijf met je tafel op het whiteboard vijf voorbeelden van “lelijke” URLs. 
 
 Alles rondom het werken met “mooie” URLs kun je binnen Express afvangen met routes. Je hebt hier nu al meerdere keren mee gewerkt, maar misschien kun je nog een sprong maken.
 
-In Express kun je routes op verschillende manieren aanmaken; met _strings paths_, _paths met reguliere expressies_, en met _route parameters_. Je kunt zelfs meerdere route parameters tegelijk gebruiken. Lees onderstaande drie secties en de voorbeelden uit de Express documentatie even rustig door. (We gebruiken Express 5, dus alle opmerkingen over Express 4 zijn niet zo relevant voor ons.)
+In Express kun je routes op verschillende manieren aanmaken; met [_strings paths_](https://expressjs.com/en/guide/routing.html#route-paths-based-on-strings), [_paths met reguliere expressies_](https://expressjs.com/en/guide/routing.html#route-paths-based-on-regular-expressions), en met [_route parameters_](https://expressjs.com/en/guide/routing.html#route-parameters). Je kunt zelfs meerdere route parameters tegelijk gebruiken. Lees deze drie bronnen en de voorbeelden uit de Express documentatie even rustig door. (We gebruiken Express 5, dus alle opmerkingen over Express 4 zijn niet zo relevant voor ons.)
 
-Als frontender zul je regelmatig links naar documentatie krijgen. Zelfs Chad deelt tegenwoordig bronnen. Documentatie lezen, begrijpen en je eigen maken is een belangrijk onderdeel van je (toekomstige) werk.
+Als frontender zul je regelmatig links naar documentatie krijgen. Documentatie lezen, begrijpen en je eigen maken is een belangrijk onderdeel van je (toekomstige) werk.
 
 👉 Zoek in de routing documentatie van Express een voorbeeld van wat je nog niet eerder gebruikt hebt. Maak daarmee een kleine demo voor een `GET` request in je project. Experimenteer met voorbeeld code, en probeer deze je eigen te maken. Schrijf je route op het whiteboard. Stel vragen als je er niet uit komt.
 
