@@ -25,7 +25,7 @@ Schrijf met je tafel op het whiteboard vijf voorbeelden van “lelijke” URLs. 
 ### Bronnen
 
 - [Clean URL @ Wikipedia](https://en.wikipedia.org/wiki/Clean_URL)
-- [URL as UI](https://www.nngroup.com/articles/url-as-ui/)
+- [URL as User Interface](https://www.nngroup.com/articles/url-as-ui/)
 - [What are the parts of a URL? @ Web.dev](https://web.dev/articles/url-parts)
 
 
