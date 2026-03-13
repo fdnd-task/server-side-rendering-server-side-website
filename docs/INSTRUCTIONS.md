@@ -27,7 +27,7 @@ Deze leertaak wordt behandeld in Sprint 8. Er worden verschillende workshops aan
 - [Wrap up](wrap-up.md)
 
 
-## Criteria
+## Definitions of Done
 Deze opdracht is done als:
 
 - [ ] Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de debriefing is gedocumenteerd in een issue en verwerkt
